@@ -242,12 +242,12 @@ EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Dhaka Fm
 http://118.179.219.244:8000/;
 EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Shadin Fm
 https://stream.zeno.fm/umq9q5uuva5tv
-EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Radio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Radio Dinrat
+https://stream-172.zeno.fm/enwcsg26wmftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbndjc2cyNndtZnR2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikd6SVF0ems4UmgtdzJ4MkMxMG1SeHciLCJpYXQiOjE3MjY2NDUzMzgsImV4cCI6MTcyNjY0NTM5OH0.m7pDgW5cZE8lb1P76RsG2ZJ9J4K0KeAu3Lz90IqL3gg
+EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Radio Vumi
+http://node-19.zeno.fm/yaqpcmhxe48uv?rj-ttl=5&rj-tok=AAABfgXkCqUAo83RYDSRIcag4Q
 EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
