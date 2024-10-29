@@ -236,12 +236,12 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Radio Today
+https://stream.zeno.fm/0zha3rfq02quv
+EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Dhaka Fm
+http://118.179.219.244:8000/;
+EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", Shadin Fm
+https://stream.zeno.fm/umq9q5uuva5tv
 EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 EXTINF:-1 tvg-logo="Logo Link" group-title="Fm Radio", &prive
