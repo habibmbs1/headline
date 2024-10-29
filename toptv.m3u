@@ -109,6 +109,8 @@ http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2181.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sony Aath
 http://bd.ottbd.online:2082/live/rozario859/01327184859/23369.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sony Aath
+https://sliv.drmlive.in/2011641/SonyAathSD/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sangeet Bangla
 https://RSLiveTv@d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=247600.m3u8
 
