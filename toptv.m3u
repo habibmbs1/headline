@@ -415,9 +415,24 @@ TSPORT
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T Sports HD
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T Sports HD
-https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", T Sports HD
-https://shounwifi.net/Yt/stream.php?live=live-01
+https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="SPORTS" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="SPORTS" group-title="",Eurosports
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+
 
 CORTOON CHANNEL
 
@@ -467,6 +482,9 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
+
+DOCUMENTARY CHANNEL
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", National GeogrFi
@@ -483,6 +501,11 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
