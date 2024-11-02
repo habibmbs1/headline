@@ -1,5 +1,6 @@
 #EXTM3U
 
+Islamic Channel
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Madani Channel
@@ -19,43 +20,70 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", BTV 
-http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Maasranga Tv
+BD Channel
+#Bangladesi TV
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BANGLADESH", BTV HD
+https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BANGLADESH", EKUSHEY TV HD
+https://static.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BANGLADESH", NTV
+https://static.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BANGLADESH", RTV HD
+https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BANGLADESH", CHANNEL I HD
+https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BANGLADESH", BANGLA VISION HD
+https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BANGLADESH", BOISHAKHI TV HD
+https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BANGLADESH", DESH TV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BANGLADESH", ATN BANGLA HD
+https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BANGLADESH", MY TV HD
+https://mytvbangla.com/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BANGLADESH", BIJOY TV HD
+https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com 
+
+#EXTINF:-1 ,Banglavision HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BANGLADESH", INDEPENDENT TV
+https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", WEB|MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Asian Tv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BANGLADESH", MAASRANGA TV HD
+http://xtv.ooo:8080/live/98267/02727/245904.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BANGLADESH", CHANNEL 24 HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
+https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BANGLADESH", ASIAN TV HD
 https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Deeptoo Tv
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Ekushey Tv
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Channel I
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", RTV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RtvNews
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", NTV
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NTVDigitalLive
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", SA@Tv
-https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Boishakhi Tv
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Me Tv
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Rajdhani Tv
-https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Ruposhi Tv
-https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Bongo Drama 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Bongo Movie 
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Desi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Movie Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BANGLADESH", SATV HD
+http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BANGLADESH", JAMUNA TV
+https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BANGLADESH", DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BANGLADESH", DBC NEWS
+https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BANGLADESH", ANANDA TV
+https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BANGLADESH", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+Bd News 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BANGLADESH", SOMOY TV HD
+https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BANGLADESH", EKATTOR TV HD
+https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVZxWTC/download-3.jpg" group-title="BD News", Jumuna Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Jumuna Tv2
