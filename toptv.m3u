@@ -154,7 +154,7 @@ http://xtv.ooo:8080/live/98267/02727/245893.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="KOLKATA",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8 
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="KOLKATA",OP,S1|Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3./jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.pngeu-west-1.amazonaws.com" group-title="KOLKATA",OP,S1|Zee Bangla Cinema
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="KOLKATA",OP,S1|Zee Bangla Cinema
@@ -213,7 +213,7 @@ INDIAN BANGLA
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Star Jalsha Hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -239,7 +239,7 @@ https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Action
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", SET MAX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
@@ -247,7 +247,7 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", B4U Movie
 https://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Shema Bolliwood
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi", Shema Bolliwood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi", Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
