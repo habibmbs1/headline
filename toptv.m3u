@@ -23,6 +23,44 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 http://66.45.232.131:9994/;stream.mp3
 
 
+BD TV CHANNEL
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV 
+http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BD Tv Channel", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BD Tv Channel", Asian Tv
+https://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Deeptoo Tv
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BD Tv Channel", Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Channel I
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", RTV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RtvNews
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", NTV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NTVDigitalLive
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", SA@Tv
+https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Rajdhani Tv
+https://cdn.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Ruposhi Tv
+https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Bongo Drama 
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Bongo Movie 
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Desi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #Bangladesi TV
 
@@ -87,9 +125,9 @@ Bd News
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Jumuna Tv2
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@jamunatvplus
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Somoy Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD News", Somoy Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@somoynews360
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Somoy Tv2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="BD News", Somoy Tv2
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Independent Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision
