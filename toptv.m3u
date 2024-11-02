@@ -293,14 +293,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Sony Entertaiment Hd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_entertainment_hd
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", 9x Tasan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=247600.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+
 
 
 
@@ -325,7 +318,7 @@ https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://kerala
 https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/120X9VJ/20240804-180037.png" group-title="Sony live", SONY MAX 2 
 https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="DOCUMENTRY", SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="Sony live", SONY BBC EARTH HD
 https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Sony live", SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -391,10 +384,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 SPORTS CHANNEL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel" group-title="",Star Sports 1 HD
@@ -416,26 +409,25 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 
 CORTOON CHANNEL
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Discovery Kids
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Nick Hindi
-https://fifabangladesh.live/VHOD/go.php?id=Nick_voot_MOB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
+http://xtv.ooo:8080/live/98267/02727/150482.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Jugnu Kids 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JugnuKidsBangla
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Cartoon Network
-http://ekdilhai.pro/CN_HD_Tamil/mpegts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="Cartoon Channel", POGO
+http://217.20.112.199/pogo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Cartoon Channel", RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+
+
 
 ENGLISH CHANNEL
+
+
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
@@ -451,16 +443,7 @@ https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
 
 
 DOCUMENTARY CHANNEL
@@ -484,20 +467,5 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Live Event", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 
