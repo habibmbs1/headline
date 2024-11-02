@@ -485,16 +485,16 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 DOCUMENTARY CHANNEL
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", Discovery Bangla 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel", Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", National GeogrFi
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png" group-title="Documentary Channel", Discovery Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="Documentary Channel", Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary Channel", Nat Geo HD
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
