@@ -2,6 +2,7 @@
 
 Islamic Channel
 
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Madani Channel
@@ -20,6 +21,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iamamuslim
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+
+
 
 #Bangladesi TV
 
@@ -76,6 +79,8 @@ https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=ht
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BANGLADESH", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+
+
 Bd News 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HVZxWTC/download-3.jpg" group-title="BD News", Jumuna Tv
@@ -112,6 +117,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Jumuna Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
+
+
 
 
 
@@ -198,6 +205,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
+
+
 INDIAN BANGLA
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Zee Bangla 1
@@ -212,10 +221,81 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Jalsha Movies Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sangeet Bangla
 https://RSLiveTv@d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=247600.m3u8
+
+
+
+
+INDIAN HINDI
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Xplor Hd
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Action
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", SET MAX
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", The Movies Clab
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", B4U Movie
+https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Shema Bolliwood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi", Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Colors Hd
+http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Sony Entertaiment Hd
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_entertainment_hd
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", 9x Tasan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=247600.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+
+
+
+
+SONY LIVE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="INDIAN", SONY ENTERTAINMENT HD
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="INDIAN", SONY SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="INDIAN", SONY PAL 
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIAN", SONY KAL HD
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="INDIAN", SONY WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="INDIAN", SONY PLX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="INDIAN", SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bB7yy7k/20240804-182624.png" group-title="INDIAN", SONY MARATHI
+https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/120X9VJ/20240804-180037.png" group-title="INDIAN", SONY MAX 2 
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="DOCUMENTRY", SONY BBC EARTH HD
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA", SONY AATH
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+
+
+
 
 #MUSIC PLAYLIST 
 
@@ -267,69 +347,6 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-
-INDIAN HINDI
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", &Pictures HD
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Xplor Hd
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Action
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", SET MAX
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", SET MAX Hd
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", The Movies Clab
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", B4U Movie
-https://cdn2.pishow.tv/live/156/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Shema Bolliwood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Bollywood Prime
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Colors Hd
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Sony Entertaiment Hd
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_entertainment_hd
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", 9x Tasan
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=247600.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
-
-
-SONY LIVE
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="INDIAN", SONY ENTERTAINMENT HD
-https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="INDIAN", SONY SAB HD
-https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="INDIAN", SONY PAL 
-https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="INDIAN", SONY KAL HD
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="INDIAN", SONY WAH
-https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V9gRprB/20240803-110530.png" group-title="INDIAN", SONY PLX HD
-https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="INDIAN", SONY MAX HD
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bB7yy7k/20240804-182624.png" group-title="INDIAN", SONY MARATHI
-https://keralamaxtv.com/sliv/stream.php?id=1378&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/120X9VJ/20240804-180037.png" group-title="INDIAN", SONY MAX 2 
-https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3fMcXw/20240803-110545.png" group-title="DOCUMENTRY", SONY BBC EARTH HD
-https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="KOLKATA", SONY AATH
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY
-https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 
 
