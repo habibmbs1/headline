@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 Islamic Channel
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv Bangla
@@ -278,8 +279,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u
 
 
 
-
-
 SONY LIVE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Sony live", SONY ENTERTAINMENT HD
@@ -309,8 +308,8 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 
 
 
-
 #MUSIC PLAYLIST 
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8?nimblesessionid=455017990
@@ -397,6 +396,7 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 
 CORTOON CHANNEL
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
 
@@ -439,9 +439,12 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActio
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action 
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
 
 
 DOCUMENTARY CHANNEL
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel", Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
