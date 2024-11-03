@@ -195,7 +195,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Indian Bangla", COLORS BANGLA HD2
-http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Indian Bangla", COLORS BANGLA HD3
 http://xtv.ooo:8080/live/98267/02727/245895.m3u8
 
