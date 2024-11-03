@@ -5,22 +5,27 @@ Islamic Channel
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Madani Channel
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@MadaniChannelBanglaLive
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Ilamic Waz
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@islamicstudio24
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Al Sunnah (S:)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NaimatIslamic
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Makkah Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@AlQuran4KOfficial
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Quran TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iamamuslim
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Quran Radio
-http://66.45.232.131:9994/;stream.mp3
 
 
 BD TV CHANNEL
@@ -49,12 +54,12 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zPFbF67/20240826-230349.png" group-title="BD Tv Channel", EKUSHEY TV HD2
 https://static.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Channel I
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BD Tv Channel", Channel I
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@ChanneliNews
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="BD Tv Channel", CHANNEL I HD2
 https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", RTV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BD Tv Channel", RTV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@RtvNews
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BD Tv Channel", RTV HD2
 https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -76,7 +81,7 @@ https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
 http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Boishakhi Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Tv Channel", Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Tv Channel", BOISHAKHI TV HD
 https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -111,7 +116,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BANGLADESH", CHANNEL 9 HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
 
 
 Bd News 
@@ -230,16 +235,6 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="KOLKATA",Amar Digita
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA",Mon Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA",Trara Bangla 
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 
@@ -277,10 +272,17 @@ http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Sangeet Bangla
-https://RSLiveTv@d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=247600.m3u8
+EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Mon Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Tara Bangla 
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 INDIAN HINDI
@@ -348,26 +350,34 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC", DOOM MUSIC BANGLA
 http://xtv.ooo:8080/live/98267/02727/245921.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC", 9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="MUSIC", MTV
 http://opplextv.cyou:8080/live/4545/4545/206054.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="MUSIC", MTV BEATS HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="MUSIC", ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 
