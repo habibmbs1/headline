@@ -186,11 +186,7 @@ KOLKATA Playlist
 
 
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="KOLKATA", OP|JALSHA MOVIES HD
-http://xtv.ooo:8080/live/98267/02727/245900.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="KOLKATA", OP,S1|JALSHA MOVIES HD
-http://xtv.ooo:8080/live/global/global/245900.m3u8
 
 
 
@@ -252,9 +248,8 @@ http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Tara Tv
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema2
 http://xtv.ooo:8080/live/global/global/245897.m3u8
 
@@ -263,12 +258,12 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
+http://xtv.ooo:8080/live/98267/02727/245895.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd3
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
-http://xtv.ooo:8080/live/98267/02727/245900.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd3
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd3
 http://xtv.ooo:8080/live/global/global/245900.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Bangla +
