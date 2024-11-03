@@ -137,7 +137,7 @@ https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News", Independent Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@IndependentTelevision
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", Independent Tv2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News", Independent Tv2
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News", INDEPENDENT TV3
 https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -145,7 +145,7 @@ https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|r
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BD News", DESH TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD News", DBC News
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD News", DBC News
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@dbcnewstv
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD News", DBC NEWS2
 https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -228,7 +228,7 @@ http://opplextv.cyou:8080/live/global/global/245906.ts
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="KOLKATA", OP,S1|SUN BANGLA
 http://xtv.ooo:8080/live/98267/02727/245906.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="KOLKATA", KHUSHBOO BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM8cW0P/image-Content-27017-jjo92wyg-m1.webp" group-title="KOLKATA", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="KOLKATA", ENTEER TEN BANGLA
@@ -260,6 +260,9 @@ http://xtv.ooo:8080/52882216/581881255/245898
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD3 
 http://217.20.112.199/starjalshahd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
@@ -268,9 +271,6 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Jalsha Movies Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
 
 EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -437,14 +437,22 @@ CORTOON CHANNEL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 http://xtv.ooo:8080/live/98267/02727/150482.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM8cW0P/image-Content-27017-jjo92wyg-m1.webp" group-title="Cartoon Channel", KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/master.m3u8
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Jugnu Kids 
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JugnuKidsBangla
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="Cartoon Channel", POGO
 http://217.20.112.199/pogo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Cartoon Channel", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
