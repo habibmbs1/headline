@@ -441,7 +441,7 @@ https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Di
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 http://xtv.ooo:8080/live/98267/02727/150482.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM8cW0P/image-Content-27017-jjo92wyg-m1.webp" group-title="Cartoon Channel", KHUSHBOO BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Cartoon Channel", Jugnu Kids 
