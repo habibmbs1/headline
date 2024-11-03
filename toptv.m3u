@@ -95,7 +95,7 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BD Tv Channel", ANANDA TV
 https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Me Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Rajdhani Tv
@@ -112,9 +112,6 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD Tv Channel", Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
 
@@ -221,25 +218,22 @@ http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
 http://xtv.ooo:8080/live/global/global/245900.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Tara Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="Indian Bangla", Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Bangla +
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="Indian Bangla", Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Mon Bangla
+#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/PWKy2vp/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg" group-title="Indian Bangla", Mon Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Tara Bangla 
-http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 INDIAN HINDI
