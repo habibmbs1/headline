@@ -228,9 +228,6 @@ http://opplextv.cyou:8080/live/global/global/245906.ts
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="KOLKATA", OP,S1|SUN BANGLA
 http://xtv.ooo:8080/live/98267/02727/245906.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM8cW0P/image-Content-27017-jjo92wyg-m1.webp" group-title="KOLKATA", KHUSHBOO BANGLA
-https://cdn3.pishow.tv/live/283/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="KOLKATA", ENTEER TEN BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
