@@ -2,7 +2,6 @@
 
 Islamic Channel
 
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
@@ -79,7 +78,6 @@ https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer
 https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BD Tv Channel", SATV HD
 http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
-
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Tv Channel", Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -182,8 +180,6 @@ http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 3
 http://xtv.ooo:8080/live/global/global/245893.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 4
-http://xtv.ooo:8080/live/98267/02727/245893.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
@@ -207,6 +203,8 @@ http://xtv.ooo:8080/live/98267/02727/245906.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH2
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
@@ -232,7 +230,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/PWKy2vp/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg" group-title="Indian Bangla", Mon Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PWKy2vp/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg" group-title="Indian Bangla", Mon Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 
@@ -240,27 +238,38 @@ INDIAN HINDI
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Xplor Hd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi", Xplor Hd
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Zee Action
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Action
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=set_max_hd
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", The Movies Clab
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNYXSBH/images-12.jpg" group-title="Indian Hindi", The Movies Clab
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", B4U Movie
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
 https://cdn2.pishow.tv/live/156/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi", Shema Bolliwood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi", Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Colors Hd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VSFSNPj/241029144005.jpg" group-title="Indian Hindi", Colors Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Hindi", Sony Entertaiment Hd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertaiment Hd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_entertainment_hd
 
 
