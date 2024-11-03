@@ -309,7 +309,7 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 #MUSIC PLAYLIST 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
-http://tv.cloudcdn.me/live.ts?channelId=97&uid=1868&deviceMac=00:1A:79:94:98:FE
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8?nimblesessionid=455017990
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
@@ -376,20 +376,18 @@ https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/li
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel" group-title="",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel" group-title="", Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="",Eurosports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
-#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel",MU TV
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel",MU TV
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports Channel",Real Madrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
 
 
@@ -422,20 +420,20 @@ ENGLISH CHANNEL
 
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &Flix HD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", Sony Pixhd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_pix_hd
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", Action Movie
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Action Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActionMovie
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", Hit Action 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action 
 https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="English Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 
 
@@ -443,20 +441,16 @@ DOCUMENTARY CHANNEL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel", Discovery Bangla 
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", National GeogrFi
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png" group-title="Documentary Channel", Discovery Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png" group-title="Documentary Channel", Animal Planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary Channel", Nat Geo HD
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Documentary Channel", &prive
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
 
 
 
