@@ -177,14 +177,14 @@ INDIAN BANGLA
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 1
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 2
-http://217.20.112.199/zeebangla/index.m3u8
+http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 3
 http://xtv.ooo:8080/live/global/global/245893.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD2
-http://xtv.ooo:8080/52882216/581881255/245898
+http://103.205.133.71/StarJalshaFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD3 
 http://217.20.112.199/starjalshahd/index.m3u8
 
@@ -224,14 +224,18 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="Indian Bangla", Bangla +
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="Indian Bangla", Sananda Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="Indian Bangla", Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njQF4NZ/images-24.jpg" group-title="Indian Bangla", RoposhiBangla
+https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PWKy2vp/1708ecea-d867-423c-9743-2aabefcd8ecc.jpg" group-title="Indian Bangla", Mon Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 
 INDIAN HINDI
