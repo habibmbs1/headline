@@ -184,12 +184,6 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeerae
 
 KOLKATA Playlist 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="KOLKATA", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
 
@@ -245,13 +239,26 @@ http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="KOLKATA", COLORS BANGLA
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="KOLKATA", COLORS BANGLA HD
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="KOLKATA", OP,S1|COLORS BANGLA HD
+http://xtv.ooo:8080/live/98267/02727/245895.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Indian Bangla", SUN BANGLA
+http://xtv.ooo:8080/live/98267/02727/245906.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema2
-http://xtv.ooo:8080/live/global/global/245897.m3u8
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
@@ -264,7 +271,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Indian Bangla", Colors Bangla Cinema
-http://xtv.ooo:8080/live/98267/02727/245895.m3u8
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="Indian Bangla", Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
