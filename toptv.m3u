@@ -525,6 +525,4 @@ https://toffee.iptvbd.xyz/api/toffee_drama.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports highlights
 https://toffee.iptvbd.xyz/api/sports_highlights.m3u8
 
-M3uPLay
-#EXTINF:-1 tvg-logo="Logo Link" group-title="M3U", Channel Name
-https://rb.gy/1nkiqm
+
