@@ -180,6 +180,7 @@ INDIAN BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 1
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
+http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 2
 http://103.205.133.71/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 3
@@ -187,6 +188,7 @@ http://xtv.ooo:8080/live/global/global/245893.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
+http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD2
 http://103.205.133.71/StarJalshaFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD3 
@@ -209,7 +211,7 @@ http://xtv.ooo:8080/live/98267/02727/245906.m3u8
 https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_aath
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH2
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
@@ -226,6 +228,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
 http://xtv.ooo:8080/live/global/global/245900.m3u8
 
@@ -259,6 +262,7 @@ https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
+http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
 https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -364,6 +368,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 SPORTS CHANNEL
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
@@ -385,7 +391,17 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CQPwQCw/images-27.jpg" group-title="Sports Channel", Star Sport 1
+http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport 2
+http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Sports 18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8sVqnpb/images-12.png" group-title="Sports Channel", RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 CORTOON CHANNEL
@@ -511,15 +527,18 @@ https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
 https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
 https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
 
 
 LIVE EVENT
