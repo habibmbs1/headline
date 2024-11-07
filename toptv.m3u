@@ -379,6 +379,9 @@ http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel", A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w220167345.m3u8
 
