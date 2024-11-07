@@ -367,9 +367,11 @@ SPORTS CHANNEL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
 https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel" group-title="", Star Sports 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
