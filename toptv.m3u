@@ -422,6 +422,17 @@ https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 1
+https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 2
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 3
+https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 4
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 
 CORTOON CHANNEL
 
