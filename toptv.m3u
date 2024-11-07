@@ -40,8 +40,6 @@ https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|ref
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", MAASRANGA TV HD
-http://xtv.ooo:8080/live/98267/02727/245904.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="BD Tv Channel", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
