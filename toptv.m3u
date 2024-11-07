@@ -409,6 +409,10 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony six hd
 http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
+
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
 
