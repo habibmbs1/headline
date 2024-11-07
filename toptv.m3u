@@ -403,6 +403,22 @@ http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8sVqnpb/images-12.png" group-title="Sports Channel", RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
+https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
+https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
+https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
+https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+
+
 
 CORTOON CHANNEL
 
