@@ -89,6 +89,9 @@ https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|ref
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
 https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bstFkk1/unnamed-2.png" group-title="BD Tv Channel", GTV
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BD Tv Channel", MY TV HD
 https://mytvbangla.com/0.m3u8
 
@@ -177,7 +180,6 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeerae
 INDIAN BANGLA
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 1
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24128.m3u8
 http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 2
 http://103.205.133.71/ZeeBangla/index.m3u8
@@ -185,7 +187,6 @@ http://103.205.133.71/ZeeBangla/index.m3u8
 http://xtv.ooo:8080/live/global/global/245893.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
 http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD2
 http://103.205.133.71/StarJalshaFHD/index.m3u8
@@ -231,7 +232,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://10.10.10.10/hls/zeemovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
-http://xtv.ooo:8080/live/global/global/245900.m3u8
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="Indian Bangla", Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -388,6 +389,9 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel" group-title="", Star Sports 1 HD
 https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
+http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport 2
 http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
