@@ -262,7 +262,6 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/toffee-live/index.m3u8?id=sony_max
 http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
@@ -373,11 +372,9 @@ SPORTS CHANNEL
 http://10.10.10.10/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
-https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
-https://crichd-live.top/live/tsports/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel", A Sports
