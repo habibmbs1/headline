@@ -606,6 +606,12 @@ https://toffee.iptvbd.xyz/api/discovery_science.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Turbo
 https://toffee.iptvbd.xyz/api/discovery_turbo.m3u8
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery 
+https://toffee.iptvbd.xyz/api/discovery_sd.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Hd
+https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
 
@@ -621,8 +627,9 @@ https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports
 https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports hd
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports Hd
 https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
+
 
 
 LIVE EVENT
