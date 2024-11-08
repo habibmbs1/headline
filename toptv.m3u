@@ -229,7 +229,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd
 http://10.10.10.10/hls/zeemovie.m3u8
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
 http://xtv.ooo:8080/live/global/global/245900.m3u8
@@ -371,7 +370,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 SPORTS CHANNEL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
-http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 http://10.10.10.10/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
