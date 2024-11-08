@@ -398,14 +398,11 @@ https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
 http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports Football
-http://103.175.242.10:8080/skysportsfootball/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten hd
 http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
