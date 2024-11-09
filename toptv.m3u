@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-Islamic Channel
+#Islamic Channel
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -31,7 +31,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iamamuslim
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 
-BD TV CHANNEL
+#BD TV CHANNEL
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV 
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -119,7 +119,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
 
 
-Bd News 
+#Bd News 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News", Jumuna Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
@@ -247,7 +247,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 
 
 
-INDIAN HINDI
+#INDIAN HINDI
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
@@ -295,7 +295,7 @@ https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralama
 
 
 
-SONY LIVE
+#SONY LIVE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Sony live", SONY ENTERTAINMENT HD
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -324,7 +324,7 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 
 
 
-MUSIC PLAYLIST 
+#MUSIC PLAYLIST 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
@@ -374,7 +374,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
 
 
-SPORTS CHANNEL
+#SPORTS CHANNEL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
@@ -465,7 +465,7 @@ http://gcp-dash.ngslbs.com/TVD003/index.mpd
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
 
-CORTOON CHANNEL
+#CORTOON CHANNEL
 
 
 
@@ -492,7 +492,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 
 
 
-ENGLISH CHANNEL
+#ENGLISH CHANNEL
 
 
 
@@ -529,7 +529,8 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", Channel 4
 http://gcp-dash.ngslbs.com/TVD013/index.mpd
 
-DOCUMENTARY CHANNEL
+
+#DOCUMENTARY CHANNEL
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel", Discovery Bangla 
@@ -561,7 +562,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 
 
 
-Toffee
+#Toffee
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
@@ -662,7 +663,7 @@ https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
 
 
 
-LIVE EVENT
+#LIVE EVENT
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gvgV0K6/channels4-profile-21.jpg" group-title="LIVE EVENT", European Cricket
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@europeancricketnetwork
