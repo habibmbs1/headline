@@ -287,6 +287,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VSFSNPj/241029144005.jpg" group-title="Indian Hindi", Colors Hd
 http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", Uthso Gold Hd
+http://gcp-dash.ngslbs.com/TVD030/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertaiment Hd
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
 
