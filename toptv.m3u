@@ -30,7 +30,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iamamuslim
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pjy3nWV/Peace-TV-official-logo.png" group-title="Islamic Channel", Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pjy3nWV/Peace-TV-official-logo.png" group-title="Islamic Channel", No Channel 
 
 
 
@@ -187,7 +187,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfWM7MD/channels4-profile-17.jpg" group-title="BD News", Alzazira Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfWM7MD/channels4-profile-17.jpg" group-title="BD News", No Channel 
 
 
 
@@ -263,7 +263,7 @@ http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", No channel 
 
 
 
@@ -321,8 +321,8 @@ http://gcp-dash.ngslbs.com/TVD048/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", No channel 
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
-https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", No channel 
 
 
 
@@ -356,7 +356,7 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="Sony live", SONY YAY
 https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
-https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="Sony live", No Channel 
 
 
 
@@ -412,7 +412,7 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", No Channel 
 
 
 
@@ -509,7 +509,7 @@ http://gcp-dash.ngslbs.com/TVD003/index.mpd
 #EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", TNT Sports 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
-http://gcp-dash.ngslbs.com/TVD004/index.mpd
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", No Channel 
 
 
 
@@ -542,7 +542,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
-https://cdn3.pishow.tv/live/283/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", No Channel 
 
 
 
@@ -584,7 +584,8 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", Channel 4
 http://gcp-dash.ngslbs.com/TVD013/index.mpd
 
-http://gcp-dash.ngslbs.com/TVD013/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", No Channel 
+
 
 
 
@@ -621,7 +622,7 @@ https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6yZ95Xq/images-9.png" group-title="Documentary Channel", Food Network
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6yZ95Xq/images-9.png" group-title="Documentary Channel", No Channel 
 
 
 
@@ -727,12 +728,15 @@ https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports Hd
 https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
 
-https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", No Channel 
+
+
+
 
 
 #LIVE EVENT
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gvgV0K6/channels4-profile-21.jpg" group-title="LIVE EVENT", European Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", European Cricket
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@europeancricketnetwork
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEye
