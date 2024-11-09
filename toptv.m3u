@@ -30,6 +30,15 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iamamuslim
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pjy3nWV/Peace-TV-official-logo.png" group-title="Islamic Channel", Peace Tv English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Pjy3nWV/Peace-TV-official-logo.png" group-title="Islamic Channel", Peace Tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+
+
+
+#Bd Tv Channel 
+
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV 
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV HD2
@@ -116,7 +125,13 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
 
 
+
+
+
 #Bd News 
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News", Jumuna Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JamunaTVbd
@@ -173,8 +188,16 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfWM7MD/channels4-profile-17.jpg" group-title="BD News", Alzazira Tv
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfWM7MD/channels4-profile-17.jpg" group-title="BD News", Alzazira Tv
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@aljazeeraenglish
+
+
+
 
 INDIAN BANGLA
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 1
 http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
@@ -242,9 +265,17 @@ http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+
+
 
 
 #INDIAN HINDI
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
