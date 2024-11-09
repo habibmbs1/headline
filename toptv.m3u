@@ -404,6 +404,9 @@ http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Grope Name", Sky Football 
+http://gcp-dash.ngslbs.com/TVD017/index.mpd
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten hd
 http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
 
@@ -445,6 +448,17 @@ https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 4
 https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Grope Name", TNT SPORT 1
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
+
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Grope Name", TNT Sport 2
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
+
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Grope Name", TNT Sport 3
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
+
+#EXTINF:-1 tvg-logo="Sports Channel" group-title="Grope Name", TNT Sports 4
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
 
 CORTOON CHANNEL
