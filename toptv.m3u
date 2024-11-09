@@ -434,7 +434,7 @@ http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="", Eurosports
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+http://gcp-dash.ngslbs.com/TVD014/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 1
 https://anonmedia.foo/espn/tracks-v1a1/mono.m3u8
