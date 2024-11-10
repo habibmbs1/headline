@@ -719,6 +719,7 @@ https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
 https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
