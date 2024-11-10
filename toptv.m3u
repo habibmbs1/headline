@@ -410,7 +410,7 @@ https://epiconvh.s.llnwi.net/showbox/master.m3u8
 https://cdn2.pishow.tv/live/141/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", ZOOM
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="MUSIC", No Channel 
 
@@ -719,7 +719,6 @@ https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
-https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
 https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
