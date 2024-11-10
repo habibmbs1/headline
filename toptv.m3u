@@ -539,6 +539,9 @@ http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Cartoon Channel", RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", Cartoon Network 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", KHUSHBOO BANGLA
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
