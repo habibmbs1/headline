@@ -281,12 +281,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd 2
 http://10.10.10.10/hls/somoytv.m3u8
-http://starshare.live:8080/live/sachin/sachin/230.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
-http://starshare.live:8080/live/sachin/sachin/231.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi", Xplor Hd
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
@@ -311,9 +308,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi", Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VSFSNPj/241029144005.jpg" group-title="Indian Hindi", Colors Hd
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24789.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", Uthso Gold Hd
 http://gcp-dash.ngslbs.com/TVD030/index.mpd
@@ -568,8 +562,6 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD 2
-http://starshare.live:8080/live/sachin/sachin/253.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -577,10 +569,10 @@ https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamax
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd 2
 http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Movies Now
+#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/ckC1Ry5/30.jpg" group-title="English Channel", Movies Now
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Star Movies hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
 
 
@@ -593,7 +585,7 @@ https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", Channel 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/drZLN3C/channels4-profile-22.jpg" group-title="English Channel", Channel 4
 http://gcp-dash.ngslbs.com/TVD013/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", No Channel 
