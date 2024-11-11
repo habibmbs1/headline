@@ -425,6 +425,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://10.10.10.10/hls/tsports.m3u8
 http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
+http://10.10.10.10/hls/tsports.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
 
