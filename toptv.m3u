@@ -94,9 +94,6 @@ https://static.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8|ref
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
 https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bstFkk1/unnamed-2.png" group-title="BD Tv Channel", GTV
-http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BD Tv Channel", MY TV HD
 https://mytvbangla.com/0.m3u8
 
@@ -120,6 +117,13 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bstFkk1/unnamed-2.png" group-title="BD Tv Channel", GTV
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
+http://10.10.10.10/hls/tsports.m3u8
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -413,11 +417,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #SPORTS CHANNEL
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
-http://10.10.10.10/hls/tsports.m3u8
-http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", Tsports Home
 http://10.10.10.10/hls/tsports.m3u8
