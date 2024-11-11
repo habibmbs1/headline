@@ -710,7 +710,8 @@ http://localhost:5000/api/tlc_hd.m3u8
 http://localhost:5000/api/tlc_sd.m3u8
 
 
-
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Infotainment",TLC
+http://localhost:5000/api/match-2.m3u8
 
 
 #LIVE EVENT
