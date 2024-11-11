@@ -675,45 +675,6 @@ https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
 https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Cartoon Network Hd
-https://toffee.iptvbd.xyz/api/cartoon_network_hd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Kinds
-https://toffee.iptvbd.xyz/api/discovery_kids.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Pogo Sd
-https://toffee.iptvbd.xyz/api/pogo_sd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Investigation hd
-https://toffee.iptvbd.xyz/api/discovary_investigation_hd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Investigation Sd
-https://toffee.iptvbd.xyz/api/discovary_investigation_sd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", TLC Hd
-https://toffee.iptvbd.xyz/api/tlc_hd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", TLC SD
-https://toffee.iptvbd.xyz/api/tlc_sd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Animal Planet hd
-https://toffee.iptvbd.xyz/api/animal_planet_hd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Animal Planet sd
-https://toffee.iptvbd.xyz/api/animal_planet_sd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Science 
-https://toffee.iptvbd.xyz/api/discovery_science.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Turbo
-https://toffee.iptvbd.xyz/api/discovery_turbo.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery 
-https://toffee.iptvbd.xyz/api/discovery_sd.m3u8
-
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Discovery Hd
-https://toffee.iptvbd.xyz/api/discovery_hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
 
@@ -726,9 +687,6 @@ https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
 https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports
-https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
 
 
@@ -736,6 +694,8 @@ https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
 
 
 #LIVE EVENT
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vvsd5jq/channels4-profile-23.jpg" group-title="LIVE EVENT", European Cricket
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@europeancricketnetwork
