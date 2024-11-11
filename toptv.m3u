@@ -453,7 +453,7 @@ https://bsports.moviesflixter.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", Sky Football 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel", Sky Football 
 http://gcp-dash.ngslbs.com/TVD017/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
@@ -569,7 +569,7 @@ https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamax
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd 2
 http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
