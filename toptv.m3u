@@ -737,9 +737,6 @@ https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports
 https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports Hd
-http://localhost:5000/api/sony_ten1_hd.m3u8
-
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", No Channel 
 
 
@@ -754,7 +751,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@europeancr
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEye
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@SportsEyeTV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Toffee live
 https://shounwifi.net/api/toffee/ts.php
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
