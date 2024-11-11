@@ -738,7 +738,7 @@ https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
 https://toffee.iptvbd.xyz/api/euro_sports_sd.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", Euro Sports Hd
-https://toffee.iptvbd.xyz/api/euro_sports_hd.m3u8
+http://localhost:5000/api/sony_ten1_hd.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Toffee", No Channel 
 
