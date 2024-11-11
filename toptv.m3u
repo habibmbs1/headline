@@ -500,16 +500,16 @@ https://anonmedia.foo/espn3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6g4ghkq/images-15.png" group-title="Sports Channel", ESPN 4
 https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", TNT SPORT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT SPORT 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", TNT Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT Sport 2
 http://gcp-dash.ngslbs.com/TVD002/index.mpd
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", TNT Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT Sport 3
 http://gcp-dash.ngslbs.com/TVD003/index.mpd
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT Sports 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
 #EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", No Channel 
