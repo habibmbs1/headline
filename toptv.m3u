@@ -601,6 +601,8 @@ http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Movie Action
+https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Action Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActionMovie
