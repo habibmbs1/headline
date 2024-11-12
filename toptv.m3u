@@ -236,6 +236,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", Sony Aath
 http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
+https://bdix-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH2
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
@@ -297,7 +298,9 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
+https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
 http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
 https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -306,6 +309,7 @@ https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://kerala
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
+https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
 https://cdn2.pishow.tv/live/156/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi", Shema Bolliwood
@@ -319,6 +323,7 @@ http://gcp-dash.ngslbs.com/TVD030/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertaiment Hd
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
+https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertainment 2
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
