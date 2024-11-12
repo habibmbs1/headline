@@ -684,6 +684,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=b7167fe646a4&e=.m3u8
 https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Toffee", Sony wah
+https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
 https://toffee.iptvbd.xyz/api/sony_wah.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony yay
@@ -691,6 +692,7 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=57bd9c2493c1&e=.m3u8
 https://toffee.iptvbd.xyz/api/sony_yay.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Toffee", Sony bbc Earth hd
+https://bdix-toffee.iptvbd.xyz/live.php?id=a6497ebbf14f&e=.m3u8
 https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
