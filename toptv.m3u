@@ -321,7 +321,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", Uthso Gold Hd
 http://gcp-dash.ngslbs.com/TVD030/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Hindi", Sony Entertainment
 https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
 https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
 
