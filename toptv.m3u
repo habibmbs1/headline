@@ -694,9 +694,6 @@ http://gcp-dash.ngslbs.com/TVD003/index.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT Sports 4
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", Sport Tv 1
-http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
-
 #EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", Sport Tv 2
 http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
 
@@ -708,9 +705,6 @@ http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", Sport Tv 4
 http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="Sports Channel" group-title="Sports Channel", Sport Tv 5
-http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
