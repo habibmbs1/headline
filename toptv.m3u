@@ -246,7 +246,7 @@ http://xtv.ooo:8080/live/98267/02727/245897.m3u8
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
-https://iptv-live-play1.streamready.in/live/media11/jalsha_movies/dashc/jalsha_movies.mpd
+http://bapatv.live:8080/jalshamovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Home
 http://10.10.10.10/hls/zeemovie.m3u8
