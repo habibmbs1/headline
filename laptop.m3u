@@ -570,9 +570,11 @@ https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
 http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/starsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+http://bapatv.live:8080/starsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Willow Cricbazz hd
 https://bsports.moviesflixter.com/sports/m3u8.php/willowusa.m3u8
@@ -611,6 +613,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Sports 18
 http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
+http://bapatv.live:8080/sports18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="", Eurosports
 http://gcp-dash.ngslbs.com/TVD014/index.mpd
@@ -657,6 +660,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@SportsEyeT
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@Rj_Tuhin_Reza
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="LIVE EVENT", No Channel 
+
+
 
 #Toffee
 
