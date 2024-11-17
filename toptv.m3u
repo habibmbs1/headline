@@ -194,6 +194,9 @@ http://10.10.10.10/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Home TV", Star Jalsha
 http://10.10.10.10/hls/starJalsha.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Home TV", Jalsha Movies
+http://10.10.10.10/hls/zeemovie.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Home TV", Zee Cinema
 http://10.10.10.10/hls/somoytv.m3u8
 
@@ -213,22 +216,16 @@ http://bapatv.live:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bapatv.live:8080/zeebangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", STAR JALSHA HD3 
-https://fdev.short.gy/STAR_JALSHAxRANAPK.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Indian Bangla", COLORS BANGLA HD2
-http://103.205.133.71/Channel23HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Indian Bangla", SUN BANGLA
 http://xtv.ooo:8080/live/98267/02727/245906.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/njQF4NZ/images-24.jpg" group-title="Indian Bangla", RoposhiBangla
-https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -241,16 +238,11 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema2
-http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
 http://bapatv.live:8080/jalshamovies/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Home
-http://10.10.10.10/hls/zeemovie.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Hd
 http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="Indian Bangla", Sananda Tv
@@ -261,8 +253,6 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
-http://103.175.242.10:8080/zee-bncinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
@@ -271,6 +261,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://mhdtvplay.com/bdcast/hls/playlist.m3u8?id=b9deo5z8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Indian Bangla", No channel 
+
+
 
 
 #SONY LIVE
@@ -330,10 +322,6 @@ https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX Hd
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNYXSBH/images-12.jpg" group-title="Indian Hindi", The Movies Clab
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
@@ -343,14 +331,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi", Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", Uthso Gold Hd
-http://gcp-dash.ngslbs.com/TVD030/index.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertaiment Hd
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertainment hd
-https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
 
@@ -399,9 +381,6 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png" group-title="MUSIC", SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC", B4U MUSIC
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
@@ -415,16 +394,14 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Jugnu Kids 
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JugnuKidsBangla
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 http://xtv.ooo:8080/live/98267/02727/150482.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Jugnu Kids 
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@JugnuKidsBangla
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="Cartoon Channel", POGO
 http://217.20.112.199/pogo/index.m3u8
@@ -438,8 +415,6 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zz9Kvv2/images-29.jpg" group-title="Cartoon Channel", Cartoon Network 
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/py2r5C8/image.jpg" group-title="Cartoon Channel", KHUSHBOO BANGLA
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Cartoon Channel", No Channel 
 
 
@@ -448,6 +423,12 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Movie Action
+https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action
+https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive
 https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
@@ -458,17 +439,11 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd 2
-http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Movie Action
-https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Action Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActionMovie
@@ -476,14 +451,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActio
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/nbcMYy6/unnamed-4.jpg" group-title="English Channel", Bee Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@BeeMovies
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action
-https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/drZLN3C/channels4-profile-22.jpg" group-title="English Channel", Channel 4
-http://gcp-dash.ngslbs.com/TVD013/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="English Channel", No Channel 
 
