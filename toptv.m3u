@@ -120,7 +120,6 @@ http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 http://10.10.10.10/hls/tsports.m3u8
-http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -550,6 +549,9 @@ http://10.10.10.10/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
+https://fredflix.xyz/ctc/bz.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
 http://bapatv.live:8080/tsports1/index.m3u8
