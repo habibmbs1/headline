@@ -536,9 +536,6 @@ http://gcp-dash.ngslbs.com/TVD017/index.mpd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
 http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 Tof
-https://bdix-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
 http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
 
@@ -550,7 +547,6 @@ http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
@@ -561,9 +557,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Sports 18
 http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports Channel" group-title="", Eurosports
-http://gcp-dash.ngslbs.com/TVD014/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT SPORT 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
