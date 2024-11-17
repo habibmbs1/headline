@@ -403,9 +403,6 @@ https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Di
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 http://xtv.ooo:8080/live/98267/02727/150482.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="Cartoon Channel", POGO
-http://217.20.112.199/pogo/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
 
@@ -438,9 +435,6 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
-http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
@@ -480,13 +474,13 @@ http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BGR5kxc/channels4-profile-25.jpg" group-title="Documentary Channel", Nat Geo Animals
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NatGeoAnimals
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TgK2GcG/channels4-profile-18.jpg"group-title="Documentary Channel" group-title="",Wild Earth
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TgK2GcG/channels4-profile-18.jpg"group-title="Documentary Channel" group-title="", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Documentary Channel" group-title="",Travel XP GB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Documentary Channel" group-title="", Travel XP GB
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Documentary Channel" group-title="",TLC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Documentary Channel" group-title="", TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1zZFTs0/2018-Travel-Channel-logo-svg.png" group-title="Documentary Channel", Trave Channel
