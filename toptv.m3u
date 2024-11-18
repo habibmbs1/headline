@@ -435,17 +435,11 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
 https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
-https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Action Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActionMovie
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nbcMYy6/unnamed-4.jpg" group-title="English Channel", Bee Movie
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@BeeMovies
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
@@ -555,7 +549,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Sports 18
 http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
-https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wJ1ZgYg/TNT-Sports-Logo-svg.png" group-title="Sports Channel", TNT SPORT 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
