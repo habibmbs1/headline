@@ -99,7 +99,7 @@ https://mytvbangla.com/0.m3u8
 https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Channel 9
-https://tvs1.aynaott.com/bz/channel9/index.m3u8
+https://tvs1.aynaott.com/bz/channel9/index.m3u8?hdnts=st=1731922980~exp=1731966180~acl=/channel9/*~data=103.162.184.170-WEB~hmac=2edf9ac0138723bb1cbd0a15c6474895da835a9c2d967f6d4e92e543b2dff421
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
