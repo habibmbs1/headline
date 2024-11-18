@@ -315,8 +315,8 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Action
 https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Action
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Amol
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
