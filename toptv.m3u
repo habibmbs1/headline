@@ -627,11 +627,11 @@ https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
 https://bdix-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
-https://bdix-toffee.iptvbd.xyz/live.php?id=b7167fe646a4&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Toffee", Sony wah
 https://bdix-toffee.iptvbd.xyz/live.php?id=ac21c8534679&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
+https://bdix-toffee.iptvbd.xyz/live.php?id=b7167fe646a4&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony yay
 https://bdix-toffee.iptvbd.xyz/live.php?id=57bd9c2493c1&e=.m3u8
