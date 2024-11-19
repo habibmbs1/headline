@@ -85,7 +85,7 @@ https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BD Tv Channel", SA@Tv
 https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BD Tv Channel", SATV HD
-http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=SX3UoZHjHa6UkqfcrbuPrg&expires=1732234131&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Tv Channel", Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -220,7 +220,7 @@ INDIAN BANGLA
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
-http://bapatv.live:8080/zeebangla/index.m3u8
+https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=JudmPeNBmXYBsPbcCgwtYQ&expires=1732234182&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bapatv.live:8080/zeebangla/index.m3u8
@@ -310,8 +310,8 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=Ox_UchGUUVU5qmYrvyIbzw&expires=1732234212&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 
