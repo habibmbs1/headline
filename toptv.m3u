@@ -41,7 +41,7 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV HD
-https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+https://tvs1.aynaott.com/bz/btvctg/index.m3u8?hdnts=st=1732012134~exp=1732055334~acl=/btvctg/*~data=103.162.184.174-WEB~hmac=717a2196b5783e12f01416138777d2a0cfcd9c001873e94a01d172c3b4f13cbe
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
