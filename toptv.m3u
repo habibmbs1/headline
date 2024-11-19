@@ -122,6 +122,9 @@ http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/McMc6kk/images-18.png" group-title="BD Tv Channel", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TYXYtQAcqVosM4weU9_L5w&expires=1732233268&user=811838a63b224e85b02b925b31d0fece
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=cGt6pTGbuTx_b2PJKh8big&expires=1732234003&user=811838a63b224e85b02b925b31d0fece
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
 
