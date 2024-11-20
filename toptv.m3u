@@ -107,7 +107,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=AnuWDg_s-4n_6moodTO9Gw&expires=1732233784&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bstFkk1/unnamed-2.png" group-title="BD Tv Channel", GTV
-http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=PinBmPE5ogT49jOBGTonuQ&expires=1732328917&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/McMc6kk/images-18.png" group-title="BD Tv Channel", Nagorik Tv
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TYXYtQAcqVosM4weU9_L5w&expires=1732233268&user=811838a63b224e85b02b925b31d0fece
