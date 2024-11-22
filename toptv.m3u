@@ -563,6 +563,9 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w220167345.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel", Geo Sports
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VjTDffC/images-13.png" group-title="Sports Channel", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
