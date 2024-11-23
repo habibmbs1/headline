@@ -585,7 +585,7 @@ http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+http://gcp-dash.ngslbs.com/TVD043/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel", Sky Football 
 http://gcp-dash.ngslbs.com/TVD017/index.mpd
