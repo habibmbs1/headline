@@ -647,16 +647,19 @@ http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vvsd5jq/channels4-profile-23.jpg" group-title="LIVE EVENT", European Cricket
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@europeancricketnetwork
+https://ythls.armelin.one/channel/UCzpKcXOP32CxF-X6iTpM7EQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="LIVE EVENT", T Sports Event
+https://ythls.armelin.one/channel/UC2t9imwIR7xlDfma3CmRKJQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEye
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@SportsEyeTV
+https://ythls.armelin.one/channel/UC6gS_pIEe7nh2CebBlZ4Tjw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JcWNJP7/channels4-profile-26.jpg" group-title="LIVE EVENT", FanCode
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@FanCode
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@Rj_Tuhin_Reza
+https://ythls.armelin.one/channel/UCZoLSfhJ753gDlLObg-QHtA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="LIVE EVENT", No Channel 
