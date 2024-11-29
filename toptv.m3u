@@ -113,7 +113,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=PinBmPE5ogT4
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TYXYtQAcqVosM4weU9_L5w&expires=1732233268&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
-https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_240.m3u8
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
