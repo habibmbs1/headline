@@ -119,7 +119,7 @@ https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BD Tv Channel", NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/z6QKcHy/images-31.jpg" group-title="BD Tv Channel", Channel 9
+#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/Y2rgfv2/images-1.png" group-title="BD Tv Channel", Channel 9
 https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=1Mys1Nitbqp5HTVFFIuBPQ&expires=1732225588&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BD Tv Channel", BANGLA VISION HD
@@ -501,6 +501,9 @@ http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Action Movie
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@iQIYIActionMovie
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
