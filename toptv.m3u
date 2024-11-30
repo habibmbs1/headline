@@ -92,9 +92,6 @@ https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #Bd Tv Channel 
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV HD
-https://tvs1.aynaott.com/bz/btvctg/index.m3u8?hdnts=st=1732012134~exp=1732055334~acl=/btvctg/*~data=103.162.184.174-WEB~hmac=717a2196b5783e12f01416138777d2a0cfcd9c001873e94a01d172c3b4f13cbe
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
@@ -102,7 +99,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BD Tv Channel", Asian Tv
-https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=kyjgYtFSFKkpKARx1Yc4RQ&expires=1732225388&user=811838a63b224e85b02b925b31d0fece
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BD Tv Channel", Deeptoo Tv
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
@@ -119,23 +116,14 @@ https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="BD Tv Channel", NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/Y2rgfv2/images-1.png" group-title="BD Tv Channel", Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=1Mys1Nitbqp5HTVFFIuBPQ&expires=1732225588&user=811838a63b224e85b02b925b31d0fece
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="BD Tv Channel", BANGLA VISION HD
 https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BD Tv Channel", ATN BANGLA HD
 https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BD Tv Channel", SATV HD
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=SX3UoZHjHa6UkqfcrbuPrg&expires=1732234131&user=811838a63b224e85b02b925b31d0fece
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="BD Tv Channel", Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
-https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=Lbl-Z7ZjJQzpeo7wjU0RDw&expires=1732234751&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BD Tv Channel", MY TV HD
 https://mytvbangla.com/0.m3u8
@@ -154,15 +142,6 @@ https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PtzYPyb/Duronto-TV-Logo.png" group-title="BD Tv Channel", Durantto Tv
-https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=AnuWDg_s-4n_6moodTO9Gw&expires=1732233784&user=811838a63b224e85b02b925b31d0fece
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bstFkk1/unnamed-2.png" group-title="BD Tv Channel", GTV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=PinBmPE5ogT49jOBGTonuQ&expires=1732328917&user=811838a63b224e85b02b925b31d0fece
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/McMc6kk/images-18.png" group-title="BD Tv Channel", Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=TYXYtQAcqVosM4weU9_L5w&expires=1732233268&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
@@ -201,9 +180,6 @@ http://10.10.10.10/hls/sony10.m3u8
 INDIAN BANGLA
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=JudmPeNBmXYBsPbcCgwtYQ&expires=1732234182&user=811838a63b224e85b02b925b31d0fece
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://bapatv.live:8080/zeebangla/index.m3u8
@@ -561,29 +537,6 @@ http://gcp-dash.ngslbs.com/TVD004/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
-
-
-#LIVE EVENT
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vvsd5jq/channels4-profile-23.jpg" group-title="LIVE EVENT", European Cricket
-https://ythls.armelin.one/channel/UCzpKcXOP32CxF-X6iTpM7EQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="LIVE EVENT", T Sports Event
-https://ythls.armelin.one/channel/UCuv6gP5Nx0bq5Mdfb-Vl_fQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEye
-https://ythls.armelin.one/channel/UC6gS_pIEe7nh2CebBlZ4Tjw.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JcWNJP7/channels4-profile-26.jpg" group-title="LIVE EVENT", FanCode
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@FanCode
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
-https://ythls.armelin.one/channel/UCZoLSfhJ753gDlLObg-QHtA.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="LIVE EVENT", No Channel 
 
 #Toffee
 
