@@ -272,10 +272,10 @@ https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://kerala
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema
 http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
-https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
-http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
 http://109.61.81.147:2080/cdn2/4828/video.m3u8?token=4444
