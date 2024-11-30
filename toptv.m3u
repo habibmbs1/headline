@@ -99,7 +99,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BD Tv Channel", Asian Tv
-
+https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BD Tv Channel", Deeptoo Tv
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
@@ -143,6 +143,8 @@ https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
 
