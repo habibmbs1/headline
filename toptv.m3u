@@ -298,51 +298,6 @@ http://gcp-dash.ngslbs.com/TVD048/index.mpd
 
 
 
-
-#MUSIC PLAYLIST 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC", 9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="MUSIC", ZING
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC", YRF MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC", SANGEET BHOJPURI
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="MUSIC", E24
-https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_256k.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC", B4U MUSIC
-https://bdix-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="MUSIC", No Channel 
-
-
-
 #CORTOON CHANNEL
 
 
@@ -369,35 +324,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Cartoon Channel", No Channel 
-
-
-
-#ENGLISH CHANNEL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Movie Action
-https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action
-https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
-http://212.102.34.8:9080/SonyPixHD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
-http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
-https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="English Channel", No Channel 
-
-
 
 
 
@@ -437,6 +363,70 @@ https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Documentary Channel", No Channel
+
+
+#MUSIC PLAYLIST 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="MUSIC", ZING
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC", YRF MUSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1MY1r9f/20240803-105226.png" group-title="MUSIC", SANGEET BHOJPURI
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="MUSIC", No Channel 
+
+
+#ENGLISH CHANNEL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dt6gskm/images-22.jpg" group-title="English Channel", Movie Action
+https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action
+https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
+http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
+https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jByfvP/images-25.jpg" group-title="English Channel", FlimRiseAction 
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_002.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="English Channel", No Channel 
+
 
 
 
