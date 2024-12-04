@@ -490,7 +490,6 @@ https://criclive.moviesflixter.com/sports/m3u8.php/skyscric.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Sports
 http://gcp-dash.ngslbs.com/TVD043/index.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel", Sky Football 
 http://gcp-dash.ngslbs.com/TVD017/index.mpd
 
