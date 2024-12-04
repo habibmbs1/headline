@@ -503,6 +503,9 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8sVqnpb/images-12.png" group-title="Sports Channel", RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", 18 Sports 
+https://proxiimity-fire.mominulislamm3u8.workers.dev/stream.m3u8?id=0000001
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Tigo Sport
 https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1729977807-0-0-52ed36bb848dcb25a7fc8055deadd66c
 
