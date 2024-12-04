@@ -471,7 +471,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
-http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+http://103.240.4.59:8080/Star-Sports-Select-1/preview.mp4?token=545edd70fa1a94abcd115a40848c4d528319a4f4-4a5ee005bf5676a96c51d16dfe18a872-1733291225-1733280425
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
@@ -492,7 +492,7 @@ http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
 http://109.61.81.147:2080/cdn2/4872/video.m3u8?token=4444
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony six hd
-http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+http://103.240.4.59:8080/toffeesonytenhd5/preview.mp4?token=376f18ec18e5d8a74071f8d95841290738688ece-37806a63497c5d81cde9838d1b8190f8-1733291005-1733280205
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
