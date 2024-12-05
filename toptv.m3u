@@ -557,22 +557,22 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
-https://bdix-toffee.iptvbd.xyz/live.php?id=b6192dbff21b&e=.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee", Set max hd
-https://bdix-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
+https://cnd-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
-https://bdix-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
+https://cnd-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max2
-https://bdix-toffee.iptvbd.xyz/live.php?id=420510be5c17&e=.m3u8
+https://cnd-toffee.iptvbd.xyz/live.php?id=420510be5c17&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
-https://bdix-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
+https://cnd-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
-https://bdix-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
+https://cnd-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
 https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
