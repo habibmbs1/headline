@@ -249,6 +249,60 @@ https://mhdtvplay.com/bdcast/hls/playlist.m3u8?id=b9deo5z8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Indian Bangla", No channel 
 
 
+#Toffee
+
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
+https://cdn-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee", Set max hd
+https://cnd-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
+https://cdn-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
+https://cdn-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
+https://cdn-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
+https://cdn-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
+https://cdn-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
+https://cdn-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
+https://cdn-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES
+https://cdn-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="Toffee", TOFFEE Live
+https://cdn-toffee.iptvbd.xyz/live.php?id=3df423bd64aa&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
+
 
 
 #SONY LIVE
@@ -551,57 +605,3 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
 
-
-#Toffee
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
-https://cdn-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee", Set max hd
-https://cnd-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
-https://cdn-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
-https://cdn-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
-https://cdn-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
-https://cdn-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
-https://cdn-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
-https://cdn-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
-https://cdn-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
-https://cdn-toffee.iptvbd.xyz/live.php?id=abc6677968ef&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
-https://cdn-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
-https://cdn-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
-https://cdn-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
-https://cdn-toffee.iptvbd.xyz/live.php?id=b1ba8efdd99d&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES
-https://cdn-toffee.iptvbd.xyz/live.php?id=99cf56ce2888&e=.m3u8
-
-#EXTINF:-1 tvg-logo="logo" group-title="Toffee", TOFFEE Live
-https://cdn-toffee.iptvbd.xyz/live.php?id=3df423bd64aa&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
