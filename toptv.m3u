@@ -563,10 +563,7 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
 https://cnd-toffee.iptvbd.xyz/live.php?id=6a65854166f1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
-https://cnd-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max2
-https://cnd-toffee.iptvbd.xyz/live.php?id=420510be5c17&e=.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=cd113761e022&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
 https://cdn-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
@@ -575,13 +572,13 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=ea02096b0fbc&e=.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=7e00fee81848&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
-https://bdix-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
-https://bdix-toffee.iptvbd.xyz/live.php?id=243771d9592c&e=.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=2bec2112b890&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
-https://bdix-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
+https://cdn-toffee.iptvbd.xyz/live.php?id=a40abb7586bc&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten hd
 https://cdn-toffee.iptvbd.xyz/live.php?id=43dcec1011e7&e=.m3u8
