@@ -289,6 +289,9 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=edc6a07e4754&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six hd
 https://cdn-toffee.iptvbd.xyz/live.php?id=fd6de8bd1666&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="Toffee", Sony six hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=258468998307&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
 https://cdn-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 
