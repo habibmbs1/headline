@@ -165,6 +165,8 @@ https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 03
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-03/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -466,14 +468,13 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 #SPORTS CHANNEL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
-https://linkchur.top/file/ts/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 01
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_360.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 03
+https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-03/master_360.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel", A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -555,6 +556,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Baharin Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD
+https://linkchur.top/file/ts/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
