@@ -96,7 +96,7 @@ https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #Bd Tv Channel 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV HD
-https://shounwifi.net/allbd/banglatv.php
+http://128.0.104.56/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
