@@ -507,10 +507,10 @@ http://gcp-dash.ngslbs.com/TVD043/index.mpd
 http://gcp-dash.ngslbs.com/TVD017/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
-https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
+http://103.240.4.59:8080/sony-Ten-1/tracks-v1/index.fmp4.m3u8?token=45d039c7f35f1b37cde36128b1294644062eaff0-7c314a6c290ff28cfa2881cd91e3ea3c-1734026336-1734015536
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
-https://bdixtv24.site/toffee/live.php?id=abc6677968ef&e=.m3u8
+http://103.240.4.59:8080/sony-Ten-2/preview.mp4?token=bfb634abb7295be490228e84f2ef1b0707a1cd07-fe003142c6a7bc2fb19e4e8d31ef8d5e-1734026465-1734015665
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports Channel", Sony Ten3 hd
 https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8
