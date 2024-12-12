@@ -188,6 +188,9 @@ http://10.10.10.10/hls/zeebangla.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Home TV", Star Jalsha
 http://10.10.10.10/hls/starJalsha.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Home TV", Enter10Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Home TV", Jalsha Movies
 http://10.10.10.10/hls/zeemovie.m3u8
 
