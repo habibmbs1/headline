@@ -551,6 +551,21 @@ https://linkchur.top/file/ts/file.php?id=https://live-cdn.tsports.com/live-01/in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
+#LIVE EVENT
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", European Cricket
+https://advance.iptvxpose.workers.dev/@europeancricketnetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEye
+https://advance.iptvxpose.workers.dev/@SportsEyeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", TOFFEE
+https://shounwifi.net/api/toffee/ts.php
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
+https://advance.iptvxpose.workers.dev/@Rj_Tuhin_Reza.m3u8
+
+
 Top Movies
 
 
@@ -559,9 +574,3 @@ https://core.mdiskplay.com/box/terabox/video/KbLJJzo4Mj2MwtMscoSzjw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Top Movies", No Channel 
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
-https://super.footcric.xyz/Toffeelive/live.php?id=3df423bd64aa&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
