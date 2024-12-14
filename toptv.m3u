@@ -160,6 +160,7 @@ https://bdixtv247.xyz/m3u8.php?id=duronto_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", GTv
 https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
+http://103.240.4.59:8080/Gazi-Tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
@@ -213,9 +214,11 @@ INDIAN BANGLA
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
+http://103.240.4.59:8080/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
 https://tvs2.aynaott.com/ZeeBanglaHD/index.m3u8?hdnts=st=1734166788~exp=1734209988~acl=/*~data=45.125.221.249-Desktop~hmac=2abadc079b0631af4b7fb5196ca0d9d420692144f7ebd83eb5c64c7d4ec45455&uid=nayeem98&t=1734166788
+http://103.240.4.59:8080/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
@@ -445,6 +448,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
+http://103.240.4.59:8080/movies-now/index.m3u8
 http://180.92.238.118:8080/moviesnow/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
@@ -502,6 +506,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel", Star Sports 1 HD
 https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
+http://103.240.4.59:8080/Star-Sports-1-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
 https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734167126~exp=1734210326~acl=/*~data=45.125.221.248-Desktop~hmac=067df24f2ba764c8a022b22841d01f61189e081c2ef18a039f29df19ac44fdce&uid=nayeem98&t=1734167126
