@@ -377,8 +377,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Documentary Channel", Nat Geo HD
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BGR5kxc/channels4-profile-25.jpg" group-title="Documentary Channel", Nat Geo Animals
-https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@NatGeoAnimals
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BGR5kxc/channels4-profile-25.jpg" group-title="Documentary Channel", Nat Geo
+https://advance.iptvxpose.workers.dev/@NatGeoAnimals.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TgK2GcG/channels4-profile-18.jpg"group-title="Documentary Channel" group-title="", Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
