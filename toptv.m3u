@@ -212,7 +212,7 @@ INDIAN BANGLA
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
-http://180.92.238.118:8080/zeebangla/tracks-v1a1/mono.m3u8
+https://tvs2.aynaott.com/ZeeBanglaHD/index.m3u8?hdnts=st=1734166788~exp=1734209988~acl=/*~data=45.125.221.249-Desktop~hmac=2abadc079b0631af4b7fb5196ca0d9d420692144f7ebd83eb5c64c7d4ec45455&uid=nayeem98&t=1734166788
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
