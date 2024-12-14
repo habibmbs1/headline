@@ -503,7 +503,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
-http://180.92.238.118:8080/starselect1/index.mpd
+https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734167126~exp=1734210326~acl=/*~data=45.125.221.248-Desktop~hmac=067df24f2ba764c8a022b22841d01f61189e081c2ef18a039f29df19ac44fdce&uid=nayeem98&t=1734167126
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://180.92.238.118:8080/starselect2/index.mpd
 
