@@ -487,8 +487,6 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 02
 https://bdixtv24.site/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_360.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD 03
-http://180.92.238.118:8080/tsports1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel", A Sports
@@ -509,11 +507,15 @@ http://103.240.4.59:8080/Star-Sports-1-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
 https://tvs3.aynaott.com/rEBp38Ax/index.m3u8?hdnts=st=1734167126~exp=1734210326~acl=/*~data=45.125.221.248-Desktop~hmac=067df24f2ba764c8a022b22841d01f61189e081c2ef18a039f29df19ac44fdce&uid=nayeem98&t=1734167126
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://180.92.238.118:8080/starselect2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Cricket 
 https://criclive.moviesflixter.com/sports/m3u8.php/skyscric.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Willow Cricbazz hd
+http://extraott.com/live/3969424152/3723991250/175793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel", Sky Football 
 http://180.92.238.118:8080/sfootball/index.mpd
@@ -529,6 +531,9 @@ http://180.92.238.118:8080/sonyten5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports Channel", MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
@@ -554,10 +559,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Baharin Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", FIFA
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", FIFA +
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4WDpwK/webimage-0-D187-DF0-2-DCA-49-E0-A91-C2027-B2150755.png" group-title="Sports Channel", FIFA +
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD
