@@ -175,12 +175,15 @@ Home Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Home TV", Tsport
 http://10.10.10.10/hls/tsports.m3u8
+https://cdn-tsports.iptvbd.xyz/480/live-03_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Home TV", Zee Bangla Home
 http://10.10.10.10/hls/zeebangla.m3u8
+https://jadoo.iptvbd.xyz/jadoo.php?id=zee_bangla&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Home TV", Star Jalsha
 http://10.10.10.10/hls/starJalsha.m3u8
+http://103.240.4.59:8080/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Home TV", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
@@ -193,6 +196,7 @@ http://10.10.10.10/hls/zeemovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Home TV", Zee Cinema
 http://10.10.10.10/hls/somoytv.m3u8
+https://jadoo.iptvbd.xyz/jadoo.php?id=zee_cinema_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Home TV", Sony Ten 2
 http://10.10.10.10/hls/sony10.m3u8
@@ -215,7 +219,6 @@ http://103.240.4.59:8080/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
-https://tvs1.aynaott.com/ColorsBangla/index.m3u8?hdnts=st=1734166920~exp=1734210120~acl=/*~data=45.125.221.248-Desktop~hmac=3a59b0134931f618b876e40ff3269f937cacd31fa882087643ca68850d70ea88&uid=nayeem98&t=1734166920
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
