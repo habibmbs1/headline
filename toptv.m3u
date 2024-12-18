@@ -216,19 +216,15 @@ INDIAN BANGLA
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
 http://180.188.227.250:8095/stream/t/305/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 http://103.240.4.59:8080/star-jalsha/index.m3u8
-https://tp.yg048.workers.dev/ch/468.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
 https://jadoo.iptvbd.xyz/jadoo.php?id=zee_bangla&e=.m3u8
-https://tp.yg048.workers.dev/ch/522.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_voot_MOB
-https://tp.yg048.workers.dev/ch/305.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-https://tp.yg048.workers.dev/ch/788.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Indian Bangla", SUN BANGLA
 http://xtv.ooo:8080/live/98267/02727/245906.m3u8
@@ -238,7 +234,6 @@ http://180.188.227.250:8095/stream/t/254/stream_0.m3u8?uid=2183433854&u=admin&p=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-https://tp.yg048.workers.dev/ch/34.m3u8
 http://180.188.227.250:8095/stream/t/34/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="Indian Bangla", Tara Tv
@@ -249,11 +244,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://xtv.ooo:8080/live/98267/02727/245897.m3u8
-https://tp.yg048.workers.dev/ch/254.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
 http://180.188.227.250:8095/stream/t/537/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef4
-https://tp.yg048.workers.dev/ch/537.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="Indian Bangla", Sananda Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
@@ -422,7 +415,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-https://tp.yg048.workers.dev/ch/215.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
