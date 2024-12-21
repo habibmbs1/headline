@@ -457,6 +457,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
 http://103.240.4.59:8080/movies-now/index.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
@@ -469,8 +470,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
@@ -526,12 +525,15 @@ http://extraott.com/live/3969424152/3723991250/175793.m3u8
 http://180.92.238.118:8080/sfootball/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
+https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
 http://180.92.238.118:8080/sonyten1/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
+https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
 http://180.92.238.118:8080/sonyten2/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony six hd
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
 http://180.92.238.118:8080/sonyten5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
