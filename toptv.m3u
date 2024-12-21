@@ -526,15 +526,12 @@ http://180.92.238.118:8080/sfootball/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
 https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
-http://180.92.238.118:8080/sonyten1/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
 https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
-http://180.92.238.118:8080/sonyten2/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony six hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony Ten5 hd
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
-http://180.92.238.118:8080/sonyten5/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
