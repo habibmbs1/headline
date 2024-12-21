@@ -84,12 +84,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y9FYbF/channels4-profile-15.jpg" group-title="BD News", News24 Bangla
 https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
-https://shorturl.at/I68eR
-http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725721694/ei/_hfcZuaIAZve9fwP-Nmw4A4/ip/103.177.54.33/id/tIob6iIT8yI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qJZhR4z3PmYuHsci6Iy7BDQW7ObQIVea1UyqVqaz_23oLxlVmxG1SJ0QbWi0lFHSzFA9VDr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgE54hKj5b_c4idw-EtVCRr67lo8jDhdSV5N0eNmIEeZcCIBGZN9EvlVyDOIITGRlRX81Q66OtJpCIcyhXi7KoOfHp/file/index.m3u8
-dbc
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
-
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News", EKATTOR TV HD
 https://app.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
