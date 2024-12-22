@@ -483,6 +483,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
 http://180.92.238.118:8080/starmovies/index.mpd
+https://himel-op.top/push/live.m3u8?id=7096
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
