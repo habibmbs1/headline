@@ -374,6 +374,7 @@ https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Di
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 http://xtv.ooo:8080/live/98267/02727/150482.m3u8
+https://dai.google.com/linear/hls/pb/event/0HWMZ7VTTAi8C7Y35fcbgQ/stream/388f9559-3cfc-4ee8-a61a-e9962497e612:TPE/variant/41891dc15e9a77d51b456afd178f469d/bandwidth/464544.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
