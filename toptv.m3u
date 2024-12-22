@@ -78,6 +78,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXBvkL4/images-20.jpg" group-title="BD News", Ekhon Tv
 https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8?nimblesessionid=628045825
+https://vokta.raytahost.com/live/voktatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y9FYbF/channels4-profile-15.jpg" group-title="BD News", News24 Bangla
 https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
@@ -152,6 +153,9 @@ https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=ht
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ln48Pwh/images-19.jpg" group-title="BD Tv Channel", Ruposhi Tv
+https://vokta.raytahost.com/live/voktatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ln48Pwh/images-19.jpg" group-title="BD Tv Channel", Ruposhi Tv
 https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
