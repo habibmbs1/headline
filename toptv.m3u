@@ -481,6 +481,9 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wCZ74ct/783-7831113-cinemax-hd-png-download.jpg" group-title="English Channel", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v2a1/mono.m3u8
 
