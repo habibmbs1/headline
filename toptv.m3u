@@ -688,7 +688,7 @@ FM Radio
 
 
 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg", Quran Radio
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://i.ibb.co.com/LZdmX4M/unnamed.png", Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8 
