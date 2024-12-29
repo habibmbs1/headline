@@ -110,8 +110,7 @@ https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #Bd Tv Channel 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV HD
-https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-https://jadoo.iptvbd.xyz/jadoo.php?id=channel_9&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4jPX7R/20240826-230429.png" group-title="BD Tv Channel", Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -121,7 +120,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="BD Tv Channel", Asian Tv
 https://bdixtv247.xyz/m3u8.php?id=asian_tv&e=.m3u8
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8?nimblesessionid=627986954
+https://jagobd.iptvbd.xyz/buddyxjagobd.php?channel-id=asian-test-sample-ok-d.stream&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="BD Tv Channel", Deeptoo Tv
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
@@ -152,6 +151,9 @@ https://mytvbangla.com/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BD Tv Channel", ANANDA TV
 https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
+https://jadoo.iptvbd.xyz/jadoo.php?id=channel_9&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
@@ -453,6 +455,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="MUSIC", GAAN BANGLA
+https://jagobd.iptvbd.xyz/buddyxjagobd.php?channel-id=gaanbangla-8-orgd.stream&e=.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="MUSIC", No Channel 
