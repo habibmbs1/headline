@@ -660,6 +660,9 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=sony_sports_5_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Toffee", Ten Cricket
 https://cdn-toffee.iptvbd.xyz/live.php?id=ten_cricket&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee", Euro Sports hd
+https://cdn-toffee.iptvbd.xyz/live.php?id=euro_sports_hd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
 https://cdn-toffee.iptvbd.xyz/live.php?id=sports_highlights&e=.m3u8
 
