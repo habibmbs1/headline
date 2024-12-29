@@ -171,19 +171,21 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Duronto Tv
 https://bdixtv247.xyz/m3u8.php?id=duronto_tv&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", GTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
 https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
-http://103.240.4.59:8080/Gazi-Tv/index.m3u8
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/l_10436143_69726749_55465.ts?expires=1735353133&md5=WXPmn6xxJQ8M3m_P2sLxYA&user=d477246e9e724f81a011b847457e71c4
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/l_12486679_60876436_339.ts?expires=1735703985&md5=kVhmtHxlRlJShrDnd029jQ&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/l_208_67051726_682805.ts?expires=1735703876&md5=bD_JtkvoPoNUz84bjOEOZA&user=d477246e9e724f81a011b847457e71c4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
 https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 03
 https://cdn-tsports.iptvbd.xyz/480/live-03_index.m3u8
 
