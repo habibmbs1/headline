@@ -176,6 +176,7 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/l_106_67284875_682844.ts?expir
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
 https://bdixtv247.xyz/m3u8.php?id=gazi_tv_hd&e=.m3u8
+https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/l_12486679_60876436_339.ts?expires=1735703985&md5=kVhmtHxlRlJShrDnd029jQ&user=d477246e9e724f81a011b847457e71c4
 
@@ -184,6 +185,7 @@ https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 https://edge01.iptv.digijadoo.net/live/t_sports/l_208_67051726_682805.ts?expires=1735703876&md5=bD_JtkvoPoNUz84bjOEOZA&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
@@ -533,13 +535,18 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel", Star Sports 1 HD
 https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
+https://iptvcable.netlify.app/Altogether-007/StarSports1.m3u8
 http://103.240.4.59:8080/Star-Sports-1-HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel", Star Sports 2 HD
+https://iptvcable.netlify.app/Altogether-007/StarSports2.m3u8.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 1
-http://180.188.227.250:8095/stream/t/246/stream_0.m3u8?uid=2183433854&u=admin&p=e962118eaeb88ac4a2b5cc2c7d99877207f6303b4169ef010c744b5c12898ef424f2ba764c8a022b22841d01f61189e081c2ef18a039f29df19ac44fdce&uid=nayeem98&t=1734167126
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
 http://180.92.238.118:8080/starselect2/index.mpd
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Cricket 
 https://criclive.moviesflixter.com/sports/m3u8.php/skyscric.m3u8
