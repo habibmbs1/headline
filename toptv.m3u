@@ -703,13 +703,20 @@ http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Pushpa%202%20The%20Rule%20%
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Top Movies", No Channel 
 
 
-FM Radio 
+FM Quran
 
 
 
 
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://i.ibb.co.com/LZdmX4M/unnamed.png", Quran Radio
+#EXTINF:-1 group-title="FM Quran 📻" tvg-logo="https://i.ibb.co.com/LZdmX4M/unnamed.png", Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+
+
+
+Fm Radio 
+
+
+
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8 
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
