@@ -184,9 +184,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/l_12486679_60876436_339.ts?exp
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
-https://cdn-tsports.iptvbd.xyz/master_480.m3u8
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-https://edge01.iptv.digijadoo.net/live/t_sports/l_208_67051726_682805.ts?expires=1735703876&md5=bD_JtkvoPoNUz84bjOEOZA&user=d477246e9e724f81a011b847457e71c4
+https://cdn-tsports.iptvbd.xyz/master_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
 https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
