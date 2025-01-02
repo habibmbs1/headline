@@ -189,9 +189,7 @@ https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
-https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-https://cdn-tsports.iptvbd.xyz/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
 https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
@@ -598,7 +596,7 @@ https://tmsbd.top/jig/All%20Channels/m3u8.php?id=t_sports&e=.m3u8
 https://advance.iptvxpose.workers.dev/@europeancricketnetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="LIVE EVENT", TSportsbd
-https://advance.iptvxpose.workers.dev/@TSportsbd.m3u8
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEyeTV
 https://advance.iptvxpose.workers.dev/@SportsEyeTV.m3u8
