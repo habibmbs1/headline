@@ -180,13 +180,15 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/l_106_67284875_682844.ts?expir
 https://linkchur.top/tv/jd/m3u8.php?id=gazi_tv_hd&e=.m3u8
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 https://jadoo.iptvbd.xyz/jadoo.php?id=gazi_tv_hd&e=.m3u8
+https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1735759307&md5=s61YKC7x6bHvfZiDZEjPSg&user=98fbbc7885a9470e920abab5d870f7c3
+https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 https://cdn-tsports.iptvbd.xyz/master_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
