@@ -510,7 +510,7 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports
-https://cdn-tsports.iptvbd.xyz/480/live-03_index.m3u8
+https://cric.moviesflixter.com/live.php?id=2832a8a6319e&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel", A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -597,9 +597,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/d4WDpwK/webimage-0-D187-DF0-2-DCA-49-E0-A91-C2027-B2150755.png" group-title="Sports Channel", FIFA +
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="Sports Channel", T Sports HD
-https://tmsbd.top/jig/All%20Channels/m3u8.php?id=t_sports&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sports Channel", No Channel 
 
