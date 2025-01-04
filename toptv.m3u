@@ -312,6 +312,15 @@ http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
 https://la.drmlive.au/tp/zee-pictures.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi", Xplor Hd
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Action
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Amol
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 
@@ -454,6 +463,12 @@ https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/SBkwHcW/images-23.jpg" group-title="English Channel", Hit Action
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
+https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
 http://103.240.4.59:8080/movies-now/index.m3u8
