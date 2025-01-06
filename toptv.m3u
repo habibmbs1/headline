@@ -188,11 +188,8 @@ https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 01
 https://join-telegram-liveiptvfree.vercel.app/T-sports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 03
-https://t.bdixtv24.com/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -597,8 +594,8 @@ https://m118753.protect-cdn.net/live/m1-index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="LIVE EVENT", TSportsbd
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", SportsEyeTV
-https://advance.iptvxpose.workers.dev/@SportsEyeTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mD131Wk/channels4-profile-20.jpg" group-title="LIVE EVENT", BPL 24/25
+http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9h7wRtd/sports-equipment-vector-1510402.jpg" group-title="LIVE EVENT", Bangla Comentary
 https://advance.iptvxpose.workers.dev/@Rj_Tuhin_Reza.m3u8
