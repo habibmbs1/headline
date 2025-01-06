@@ -475,8 +475,8 @@ https://live.drmlive-02.workers.dev/zee/and-flix-hd.m3u8
 http://103.240.4.59:8080/movies-now/index.m3u8
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", 24/7 Hours Movie’s  
+https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", English Movies 
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
