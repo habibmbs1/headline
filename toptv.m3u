@@ -550,19 +550,15 @@ http://extraott.com/live/3969424152/3723991250/175793.m3u8
 http://180.92.238.118:8080/sfootball/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
-https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
 https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
-https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
 https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten3 hd
-https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
 https://iptvcable.netlify.app/Altogether-007/SonySports3.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony Ten5 hd
-https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
 https://iptvcable.netlify.app/Altogether-007/SonySports5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
