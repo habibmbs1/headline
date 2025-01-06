@@ -286,6 +286,15 @@ https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamax
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="Sony live", SONY YAY
 https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sony live", Sony Ten1 hd
+https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sony live", Sony Ten2 hd
+https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sony live", Sony Ten3 hd
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sony live", Sony Ten5 hd
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Sony live", No Channel 
 
