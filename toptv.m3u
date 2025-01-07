@@ -20,11 +20,9 @@ https://ythls.armelin.one/channel/UCr79xFG2G0Lq0HKQQ8-hKrQ.m3u8
 https://ythls.armelin.one/channel/UCFrVnrQF6kTrkDdFZoT9CTQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmP8hpK/images-2.png" group-title="Islamic Channel", Makkah Tv
-https://ythls.armelin.one/channel/UCfBw_uwZb_oFLyVsjWk6owQ.m3u8
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdQ13Zp/unnamed.png" group-title="Islamic Channel", Quran TV
-https://ythls.armelin.one/channel/UCZpQ8E962TlDCz_HsePVLbA.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zRc1Dms/images-17.png" group-title="Islamic Channel", Azan TV
@@ -55,11 +53,7 @@ https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=htt
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD News", Channel 24
-https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
-https://utube.buddyxiptv.com/@channel24digital.m3u8
-https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXBvkL4/images-20.jpg" group-title="BD News", Ekhon Tv
@@ -68,7 +62,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://vokta.raytahost.com/live/voktatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y9FYbF/channels4-profile-15.jpg" group-title="BD News", News24 Bangla
-https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News", EKATTOR TV HD
