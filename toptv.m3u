@@ -63,6 +63,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News", EKATTOR TV HD
 https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BD News", DESH TV
+https://www.its-ferdos-alom.top/live/jadoo.php?id=desh_tv&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tHxZwNx/channels4-profile-14.jpg" group-title="BD News", Bangla Gago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
@@ -147,7 +150,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/duronto_tv/l_106_67284875_682844.ts?expires=1735704214&md5=JwbZThJbta15C3mkR0Wqiw&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
-https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
+https://www.its-ferdos-alom.top/live/jadoo.php?id=gazi_tv_hd&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
