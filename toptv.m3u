@@ -128,6 +128,9 @@ https://mytvbangla.com/0.m3u8
 https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="BD Tv Channel", Bangla Tv
+https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
 https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com 
 
