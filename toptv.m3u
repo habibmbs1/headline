@@ -309,7 +309,6 @@ http://opplex.tv:8080/live/15155419/16175512/382221.ts
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi", Sony Entertaiment Hd
-http://180.92.238.118:8080/sonyentten/index.mpd
 http://170.254.18.107/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Indian Hindi", No channel 
