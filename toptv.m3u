@@ -270,13 +270,14 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema
-https://la.drmlive.au/tp/zee-zeecinema.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi", Zee Cinema Hd
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi", &Pictures HD
-https://la.drmlive.au/tp/zee-pictures.m3u8
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi", Xplor Hd
 https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
@@ -288,13 +289,10 @@ https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi", SET MAX
-http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
 http://170.254.18.107/SONYMAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi", Zee Action
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi", B4U Movie
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNYXSBH/images-12.jpg" group-title="Indian Hindi", The Movies Clab
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -318,9 +316,10 @@ http://170.254.18.107/SONY/index.m3u8
 #CORTOON CHANNEL
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Cartoon Channel", RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Jugnu Kids 
-https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
@@ -331,9 +330,6 @@ https://dai.google.com/linear/hls/pb/event/0HWMZ7VTTAi8C7Y35fcbgQ/stream/388f955
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
 http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="Cartoon Channel", RONGEEN TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zz9Kvv2/images-29.jpg" group-title="Cartoon Channel", Cartoon Network 
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
