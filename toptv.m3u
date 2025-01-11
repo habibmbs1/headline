@@ -439,10 +439,14 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-http://212.102.34.8:9080/SonyPixHD/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", HBO
+http://line.4k-beast.co:80/529C1C/7446D7/656836
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", HBO 2
+http://line.4k-beast.co:80/529C1C/7446D7/715038
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
-http://180.92.238.118:8080/starmovies/index.mpd
 https://himel-op.top/push/live.m3u8?id=7096
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
