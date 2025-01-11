@@ -174,12 +174,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="Indian Bangla", Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="Indian Bangla", Tara Tv
+https://server.playontv.in/TARAMUSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g4rX32X/images-29.jpg" group-title="Indian Bangla", Mon tv
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
-https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="Indian Bangla", Sananda Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
 
@@ -205,9 +204,11 @@ https://www.its-ferdos-alom.top/live/jadoo.php?id=zee_bangla&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
-
+http://port.denver1769.in/tp3.php?tv=232265
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Indian Bangla", SUN BANGLA
 
