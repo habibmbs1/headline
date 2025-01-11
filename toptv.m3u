@@ -153,10 +153,10 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
-https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 01
-https://join-telegram-liveiptvfree.vercel.app/T-sports.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -465,6 +465,11 @@ https://live.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://live.tsports.com/live-02/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
+https://join-telegram-liveiptvfree.vercel.app/T-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", TSport Bangla
 https://cric.moviesflixter.com/live.php?id=2832a8a6319e&e=.m3u8
