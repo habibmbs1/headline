@@ -54,6 +54,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXBvkL4/images-20.jpg" group-title="BD News", Ekhon Tv
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BD News", ATN News
+https://patient-disk-c69b.nayeem-parvez.workers.dev/bpk-tv/1706/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y9FYbF/channels4-profile-15.jpg" group-title="BD News", News24 Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
@@ -131,7 +134,6 @@ https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=ht
 https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
 
