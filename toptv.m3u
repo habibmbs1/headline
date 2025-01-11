@@ -138,7 +138,6 @@ https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|Referer=https://app.jagobd.com.bd 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
-http://opplex.tv:8080/live/15155419/16175512/245902.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
@@ -152,7 +151,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRmM8Hd/channels4-profile-1.jpg" group-title="BD Tv Channel", Duronto Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
-https://www.its-ferdos-alom.top/live/jadoo.php?id=gazi_tv_hd&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
@@ -174,19 +172,16 @@ INDIAN BANGLA
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
-https://baskardo.vip/IN_JALSHAS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
 https://la.drmlive.au/tp/zee-zeebangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Indian Bangla", COLORS BANGLA
-https://baskardo.vip/IN_ColorsBengali/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Indian Bangla", SUN BANGLA
-https://baskardo.vip/IN_CTVS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
 https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
@@ -201,7 +196,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
-https://baskardo.vip/IN_JALSHAMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="Indian Bangla", Sananda Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
@@ -210,7 +204,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Indian Bangla", Amar Digita
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
@@ -496,7 +489,6 @@ https://iptvcable.netlify.app/Altogether-007/StarSports2.m3u8.m3u8
 https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel", Star Sport Selet 2
-http://180.92.238.118:8080/starselect2/index.mpd
 https://iptvcable.netlify.app/Altogether-007/StarSportsSel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel", Sky Cricket 
@@ -507,6 +499,15 @@ http://extraott.com/live/3969424152/3723991250/175793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel", Sky Football 
 http://180.92.238.118:8080/sfootball/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel", Sony Ten1 hd
+https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten2 hd
+https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel", Sony Ten3 hd
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel", Sony Ten5 hd
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel", Bian Sports
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
@@ -524,7 +525,6 @@ https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", 18 Sports 
-https://proxiimity-fire.mominulislamm3u8.workers.dev/stream.m3u8?id=0000001
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel", Tigo Sport
