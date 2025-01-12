@@ -144,7 +144,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://app.ncare.live/live-orgin/ruposhibangla.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bKpysg9/images-18.jpg" group-title="BD Tv Channel", Rajdhani Tv
-https://app.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Desi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -154,7 +154,12 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
+https://app.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 
