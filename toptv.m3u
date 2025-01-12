@@ -107,7 +107,7 @@ https://static.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8|ref
 https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="BD Tv Channel", RTV
-
+https://app.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="BD Tv Channel", SATV HD
 https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
