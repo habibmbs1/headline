@@ -16,7 +16,7 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Madina Tv
-
+https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmP8hpK/images-2.png" group-title="Islamic Channel", Makkah Tv
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
@@ -335,7 +335,7 @@ https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Di
 https://mdfardin857875557.github.io/nick/Play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
-http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Zz9Kvv2/images-29.jpg" group-title="Cartoon Channel", Cartoon Network 
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
