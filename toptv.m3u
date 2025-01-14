@@ -347,6 +347,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
 https://mdfardin857875557.github.io/nick/Play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg" group-title="Cartoon Channel", Nickelodeon Pluto
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Cartoon Channel", HUNGAMA
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
