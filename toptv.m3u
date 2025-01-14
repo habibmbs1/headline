@@ -77,6 +77,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/m85cCx0/channels4-profile-16.jpg" group-title="BD News🇧🇩", B B C NEWS
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg" group-title="BD News🇧🇩", WION NEWS
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/yfWM7MD/channels4-profile-17.jpg" group-title="BD News🇧🇩", Alzazira Tv
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
@@ -137,6 +140,7 @@ https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8|referer=https://cdn.ghu
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="BD Tv Channel", CHANNEL 9 HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/kchgG6B/meeeee.jpg" group-title="BD Tv Channel", Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
@@ -181,7 +185,7 @@ INDIAN BANGLA
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="Indian Bangla", Enter10Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="Indian Bangla", Tara Tv
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
@@ -315,6 +319,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi🇮🇳", Pitaara Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/7408c610-795f-4dba-a774-96a706b52326/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Hd
 http://170.254.18.107/SONY/index.m3u8
