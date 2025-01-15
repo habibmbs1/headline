@@ -471,6 +471,9 @@ https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HX39N/images-2.png" group-title="English Channel", Galaxy Premium 
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8?c
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1HX39N/images-2.png" group-title="English Channel", Galaxy D
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8?c
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/89LhHJr/16526995-blue-movie-logo-on-a-black-background.jpg" group-title="English Channel", English Movies 
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
