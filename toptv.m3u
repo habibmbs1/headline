@@ -294,8 +294,10 @@ https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX
 http://170.254.18.107/SONYMAX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX Hd
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNYXSBH/images-12.jpg" group-title="Indian Hindi🇮🇳", The Movies Clab
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -303,13 +305,13 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi🇮🇳", Shema Bolliwood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", Uthso Gold Hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSVTLNt/images-3.png" group-title="Indian Hindi🇮🇳", Uthso Gold Hd
 http://opplex.tv:8080/live/15155419/16175512/382221.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi🇮🇳", Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi🇮🇳", Pitaara Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LY95nv9/images-1.jpg" group-title="Indian Hindi🇮🇳", Pitaara Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/7408c610-795f-4dba-a774-96a706b52326/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
