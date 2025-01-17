@@ -677,18 +677,6 @@ https://vod.bongobd.com/vod/vod/919f93a7400e4149a70d204beb589074/4/6/464c1f5c30f
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Top Movies 🎬", No Channel 
 
 
-FM Quran
-
-
-
-
-#EXTINF:-1 group-title="FM Quran 📻" tvg-logo="https://i.ibb.co.com/LZdmX4M/unnamed.png", Quran Radio
-http://66.45.232.131:9994/;stream.mp3
-
-
-#EXTINF:-1 group-title="FM Quran 📻" tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png", Quran no
-
-
 Fm Radio 
 
 
@@ -767,6 +755,20 @@ https://stream-176.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s",Radio Goongoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 https://audio.streamcast.xyz/radio/8000/radio.mp3
+
+
+
+
+FM Quran
+
+
+#EXTINF:-1 group-title="FM Quran 📻" tvg-logo="https://i.ibb.co.com/LZdmX4M/unnamed.png", Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+
+
+#EXTINF:-1 group-title="FM Quran 📻" tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png", Quran no
+
+
 
 
 
