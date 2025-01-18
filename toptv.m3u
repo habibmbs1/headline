@@ -530,7 +530,7 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-https://streamline.sturls.com/TSports/index.m3u8?token=2c3ae620738143878949ee367468244440fd54b9-7572d32bb0eb069b9d4a87c59a0c624b-1737209282-1737198482
+http://103.96.235.18:8080/sports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://live.tsports.com/live-01/index.m3u8
