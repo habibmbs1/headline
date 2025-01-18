@@ -521,18 +521,18 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-http://103.96.235.18:8080/sports1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-https://live.tsports.com/live-01/index.m3u8
+https://streamline.sturls.com/TSports/tracks-v1a1/mono.m3u8?token=746a902967591bec2f5c68d4a639bb9452e8ec74-e63c1fd84fa34370c09e2f84f7a88be9-1737190204-1737179404
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
+https://live.tsports.com/live-01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 03
 https://live.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 04
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 05
 https://join-telegram-liveiptvfree.vercel.app/T-sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", TSport Bangla
