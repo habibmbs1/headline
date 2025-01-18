@@ -559,12 +559,10 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports 1 HD
-https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
-https://iptvcable.netlify.app/Altogether-007/StarSports1.m3u8
-http://103.240.4.59:8080/Star-Sports-1-HD/index.m3u8
+https://streamline.sturls.com/StarSports01/index.m3u8?token=ad9cb34cfa92e49ae31e04efe382bc79f1d833d6-9f848f68d358b9267a49059c322dd7fe-1737190773-1737179973
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports 2 HD
-https://iptvcable.netlify.app/Altogether-007/StarSports2.m3u8.m3u8
+https://streamline.sturls.com/StarSports02/index.m3u8?token=9072be6250613c15d9664bce9426d430f5090cdd-a36c25a7ae41ca7638cb7d9b56b74d60-1737190560-1737179760
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 1
 https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
