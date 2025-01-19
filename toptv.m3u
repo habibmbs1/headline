@@ -7,8 +7,7 @@
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xhq0Q74/images-14.jpg" group-title="Islamic Channel", Madani Channel
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B6BKwYP/images-15.jpg" group-title="Islamic Channel", Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
@@ -530,7 +529,7 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-http://103.96.235.18:8080/sports1/index.m3u8
+https://streamline.sturls.com/TSports/tracks-v1a1/mono.m3u8?token=30b5298387efff7dfdce33d0e93eedecc61f0ee8-f7ae0a18ccf6463b8e2f6a2f9ad6c6d6-1737296789-1737285989
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://live.tsports.com/live-01/index.m3u8
