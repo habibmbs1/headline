@@ -555,7 +555,7 @@ https://cric.moviesflixter.com/live.php?id=2832a8a6319e&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel⚽⚾🏏", A Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports
 http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w220167345.m3u8
