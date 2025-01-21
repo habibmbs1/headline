@@ -25,6 +25,9 @@ https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdQ13Zp/unnamed.png" group-title="Islamic Channel", Salaam Tv
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PTTQxmS/images-13.jpg" group-title="Islamic Channel", Peace Tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zRc1Dms/images-17.png" group-title="Islamic Channel", Azan TV
 
 
