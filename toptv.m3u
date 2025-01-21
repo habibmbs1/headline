@@ -510,7 +510,7 @@ https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8?c
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/wCZ74ct/783-7831113-cinemax-hd-png-download.jpg" group-title="English Channel", Cinemax
-https://xyzdddd.mizhls.ru/lb/premium374/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2ddw0gD/Logo-rakuten-tv-transparent-PNG.png" group-title="English Channel", Rokuten Tv
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -525,7 +525,7 @@ http://line.4k-beast.co:80/529C1C/7446D7/656836
 https://himel-op.top/push/live.m3u8?id=7096
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
-http://103.240.4.59:8080/movies-now/index.m3u8
+http://opplex.tv:8080/live/15155419/16175512/66271.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386
