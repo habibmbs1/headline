@@ -719,6 +719,9 @@ https://fredflix.fun/newtoffee/live.php?id=sonypix_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
 https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath02
+https://fredflix.fun/newtoffee/?id=sonyaath
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
 https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
 
