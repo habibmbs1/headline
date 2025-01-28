@@ -187,7 +187,7 @@ https://tvcache1.iptv24bd.live/GAZI/tracks-v1a1/mono.m3u8?token=8b6e42ee442ba70e
 https://static.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports 01
-http://103.96.235.18:8080/bd-tsports/index.m3u8
+http://103.96.235.18:8080/sports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
@@ -642,7 +642,7 @@ https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 1
-http://103.96.235.18:8080/sports1/index.m3u8
+http://103.96.235.18:8080/bd-tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 2
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
