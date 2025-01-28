@@ -728,6 +728,9 @@ https://fredflix.fun/newtoffee/live.php?id=sony_entertainmnt_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
 https://fredflix.fun/newtoffee/live.php?id=b4u_music/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony Yay
+https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony 1 hd
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_1_hd/playlist.m3u8
 
@@ -756,9 +759,6 @@ https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
 https://fredflix.fun/newtoffee/live.php?id=match-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony Yay
-https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
 https://fredflix.fun/newtoffee/live.php?id=match-2/playlist.m3u8
 
@@ -785,21 +785,21 @@ http://as15.digitalsynapsebd.com:9236/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Rajshahi 88.8
 http://as17.digitalsynapsebd.com:9244/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Khulna 88.8
-http://as19.digitalsynapsebd.com:9252/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Rangpur 88.8
 http://as35.digitalsynapsebd.com:8360/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Sylhet 88.8
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Barishal 105.2
-http://as25.digitalsynapsebd.com:8620/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Mymensingh 92.0
-http://as40.digitalsynapsebd.com:8029/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Comilla 101.2
-http://as37.digitalsynapsebd.com:8428/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Thakurgaon 92.0
-http://as33.digitalsynapsebd.com:8276/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Gopalgonj 92.o
-http://as39.digitalsynapsebd.com:8432/;stream.mp3
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Cox's Bazar 100.8
 http://as29.digitalsynapsebd.com:8114/;stream.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Bandarban 92.0
