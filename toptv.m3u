@@ -61,7 +61,7 @@ https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist
 https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv
-https://allinonereborn.com/test.m3u8?id=11868
+http://103.151.60.204/Jamuna-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv 2
 https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -194,7 +194,7 @@ https://tvn1.chowdhury-shaheb.com/gazitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nagorik Tv 
-
+http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 
@@ -235,9 +235,12 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+http://103.151.60.204/sony-att/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd
+http://103.151.60.204/Star-Jolsha-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Hd02
 https://bd.its-nayeemparvez.xyz/Star-23Jalsha87/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha Ts
@@ -245,6 +248,9 @@ http://xtv.ooo:8080/live/kamran800/800kamran/245898.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
 https://allinonereborn.com/test.m3u8?id=11958
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla02
+http://103.151.60.204/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla Ts
 http://xtv.ooo:8080/live/kamran800/800kamran/245893.ts
@@ -261,6 +267,9 @@ http://xtv.ooo:8080/live/kamran800/800kamran/245897.ts
 https://mycdn.tamilultratv.com/live.m3u8?id=1657
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
+http://103.151.60.204/Jolsha-Movies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies01
 https://fredflix.fun/bdix/live.php?id=Jolsha-Movies&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Ts
@@ -318,12 +327,13 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 
 #INDIAN HINDI
 
-
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema
+http://103.151.60.204/zee-cenama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema 02
 https://allinonereborn.com/test.m3u8?id=152
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
 https://allinonereborn.com/test.m3u8?id=150
 
 
@@ -356,6 +366,9 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi🇮🇳", Shema Bolliwood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/23902_STARGOLD.JPG" group-title="Indian Hindi🇮🇳", Star gold
+http://103.151.60.204/star-gold/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSVTLNt/images-3.png" group-title="Indian Hindi🇮🇳", Uthso Gold Hd
 http://opplex.tv:8080/live/15155419/16175512/382221.ts
