@@ -18,11 +18,15 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmP8hpK/images-2.png" group-title="Islamic Channel", Makkah Tv
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmP8hpK/images-2.png" group-title="Islamic Channel", Makkah Tv 2
+https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Madina Tv
 https://allinonereborn.com/test.m3u8?id=20555
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Madina Tv
-https://trkvz-live-clean.ercdn.net/alqurantv/alqurantv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdQ13Zp/unnamed.png" group-title="Islamic Channel", Salaam Tv
