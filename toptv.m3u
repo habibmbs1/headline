@@ -183,7 +183,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://fredflix.fun/bdix2/live.php?cid=carton-duronto&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
-http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv 02
 https://tvn1.chowdhury-shaheb.com/gazitv/tracks-v1a1/mono.m3u8
@@ -269,7 +269,6 @@ http://xtv.ooo:8080/live/kamran800/800kamran/245897.ts
 http://103.151.60.204/Jolsha-Movies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies01
-https://fredflix.fun/bdix/live.php?id=Jolsha-Movies&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies Ts
 
@@ -760,7 +759,7 @@ https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
 https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
-https://fredflix.fun/newtoffee/live.php?id=sony_entertainmnt_hd/playlist.m3u8
+https://fredflix.fun/toffe/live.php?id=sonyentertainmnt_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
 https://fredflix.fun/newtoffee/live.php?id=b4u_music/playlist.m3u8
@@ -794,7 +793,7 @@ https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
 https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
-https://fredflix.fun/newtoffee/live.php?id=match-1/index.m3u8
+https://fredflix.fun/toffe/live.php?id=match-1&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
 https://fredflix.fun/newtoffee/live.php?id=match-2/playlist.m3u8
