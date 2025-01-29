@@ -186,6 +186,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://fredflix.fun/bdix2/live.php?cid=carton-duronto&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
+http://103.151.60.204/gtv-sports-tv5.hoichoi24.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv 02
 https://tvn1.chowdhury-shaheb.com/gazitv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
@@ -552,7 +555,7 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-
+http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 
