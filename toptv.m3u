@@ -246,6 +246,9 @@ https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema Ts
 http://xtv.ooo:8080/live/kamran800/800kamran/245897.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
+https://mycdn.tamilultratv.com/live.m3u8?id=1657
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
 http://port.denver1769.in/tp3.php?tv=232265
 
