@@ -801,6 +801,10 @@ https://news.otapp.store/lim/live.php?id=243771d9592c&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD01
 https://fredflix.fun/toffe/live.php?id=sonyentertainmnt_hd/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max2
+https://news.otapp.store/lim/live.php?id=420510be5c17&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
 https://news.otapp.store/lim/live.php?id=a40abb7586bc&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic01
@@ -811,6 +815,9 @@ https://news.otapp.store/lim/live.php?id=57bd9c2493c1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony Yay01
 https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
+https://news.otapp.store/lim/live.php?id=b7167fe646a4&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten1 hd
 https://news.otapp.store/lim/live.php?id=43dcec1011e7&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony 1 hd01
@@ -820,6 +827,8 @@ https://fredflix.fun/newtoffee/live.php?id=sony_sports_1_hd/playlist.m3u8
 https://news.otapp.store/lim/live.php?id=abc6677968ef&e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony 2 hd01
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_2_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six5 hd
 https://news.otapp.store/lim/live.php?id=fd6de8bd1666&e=.m3u8
@@ -834,6 +843,9 @@ https://fredflix.fun/newtoffee/live.php?id=euro_sports_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
 https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Toffee", Sony bbc Earth hd
+https://news.otapp.store/lim/live.php?id=a6497ebbf14f&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
 https://news.otapp.store/lim/live.php?id=b1ba8efdd99d&e=.m3u8
@@ -852,43 +864,6 @@ https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
 
-
-
-#Toffee
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max2
-https://news.otapp.store/lim/live.php?id=420510be5c17&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
-https://news.otapp.store/lim/live.php?id=b7167fe646a4&e=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Toffee", Sony bbc Earth hd
-https://news.otapp.store/lim/live.php?id=a6497ebbf14f&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
-
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six5 hd
-https://news.otapp.store/lim/live.php?id=fd6de8bd1666&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
-
-
-#EXTINF:-1 tvg-logo="logo" group-title="Toffee", TOFFEE Live
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Toffee", No Channel 
 
 
 
