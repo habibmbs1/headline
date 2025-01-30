@@ -662,8 +662,8 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel⚽⚾🏏", 18 Sports 
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel⚽⚾🏏", Tigo Sport
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel⚽⚾🏏", FoxSports501
+https://live.himel-op.top/novasports/index.m3u8?id=FoxSports501
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1jKHkS/images-5.png" group-title="Sports Channel⚽⚾🏏", Sport Tv 1
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
