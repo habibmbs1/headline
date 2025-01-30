@@ -80,12 +80,13 @@ https://app.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="BD News🇧🇩", ATN News
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Y9FYbF/channels4-profile-15.jpg" group-title="BD News🇧🇩", News24 Bangla
+https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="BD News🇧🇩", EKATTOR TV HD
 https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BD News🇧🇩", DESH TV
-
+https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tHxZwNx/channels4-profile-14.jpg" group-title="BD News🇧🇩", Bangla Gago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
