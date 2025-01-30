@@ -748,8 +748,8 @@ https://vod.bongobd.com/vod/vod/919f93a7400e4149a70d204beb589074/4/6/464c1f5c30f
 
 #Toffee
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla
-https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
 https://fredflix.fun/newtoffee/live.php?id=sony_max/playlist.m3u8
@@ -762,6 +762,9 @@ https://fredflix.fun/newtoffee/live.php?id=b4u_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
 https://fredflix.fun/newtoffee/live.php?id=sonypix_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla
+https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
 https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
