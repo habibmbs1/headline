@@ -247,7 +247,7 @@ https://bd.its-nayeemparvez.xyz/Star-23Jalsha87/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
-
+http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla01
 https://allinonereborn.com/test.m3u8?id=11958
@@ -267,7 +267,7 @@ http://xtv.ooo:8080/live/kamran800/800kamran/245897.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
-
+http://103.175.242.10:8080/jalshamovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies01
 
@@ -558,6 +558,9 @@ http://line.4k-beast.co:80/529C1C/7446D7/656836
 https://himel-op.top/push/live.m3u8?id=7096
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
+http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now01
 http://opplex.tv:8080/live/15155419/16175512/66271.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qxX9xN4/sddefault.jpg" group-title="English Channel", Korian Movies
