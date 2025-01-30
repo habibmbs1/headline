@@ -626,7 +626,7 @@ https://live.himel-op.top/novasports/index.m3u8?id=SonySportsTen05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports Hindi
 https://crichd.onlinetvbd.com/m3u8.php/starhindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports English 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports English 02
 https://crichd.onlinetvbd.com/m3u8.php/star1in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 1
@@ -692,9 +692,11 @@ https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", BPLSpecial
 https://live.himel-op.top/novasports/index.m3u8?id=BPLSpecial
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All PlaySports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play01
 http://103.96.235.18:8080/bd-tsports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play02
+http://103.175.242.10:8080/starsports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 3
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
@@ -708,11 +710,12 @@ https://c3s5.vfruitfairy.com/soc30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 18
 https://allinonereborn.com/test.m3u8?id=23568
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", SXX20
+https://ml-pull-hwc.myco.io/SA20-1112025/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", MrBreast 
 https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", SXX20
-https://ml-pull-hwc.myco.io/SA20-1112025/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Hindi Comentary
 https://advance.iptvxpose.workers.dev/@Rj_Tuhin_Reza.m3u8
