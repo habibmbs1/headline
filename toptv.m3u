@@ -67,7 +67,7 @@ https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|r
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD News🇧🇩", DBC News
-http://103.151.60.204/DBC-tv5.hoichoi24.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD News🇧🇩", Channel 24
 
@@ -180,13 +180,13 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRmM8Hd/channels4-profile-1.jpg" group-title="BD Tv Channel", Duronto Tv
-https://fredflix.fun/bdix2/live.php?cid=carton-duronto&e=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv 02
-https://tvn1.chowdhury-shaheb.com/gazitv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
 
@@ -325,7 +325,7 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 #INDIAN HINDI
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema
-http://103.151.60.204/zee-cenama/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema 02
 https://allinonereborn.com/test.m3u8?id=152
@@ -571,7 +571,7 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_00
 Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-http://103.151.60.204/t-sports-tv5.hoichoi24.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 
@@ -600,7 +600,7 @@ https://cric.moviesflixter.com/live.php?id=2832a8a6319e&e=.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports
-http://103.151.60.204/ptv-tv5.hoichhoi24.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", Geo Sports
 
