@@ -191,7 +191,7 @@ https://tvn1.chowdhury-shaheb.com/gazitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG" group-title="BD Tv Channel", Nagorik Tv 
-http://103.151.60.204/Nagorik-tv5.hoichoi24.com/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 
@@ -231,13 +231,13 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
-http://103.151.60.204/sony-att/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH01
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd
-http://103.151.60.204/Star-Jolsha-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd02
 https://bd.its-nayeemparvez.xyz/Star-23Jalsha87/index.m3u8
@@ -246,7 +246,7 @@ https://bd.its-nayeemparvez.xyz/Star-23Jalsha87/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
-http://103.151.60.204/Zee-Bangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla01
 https://allinonereborn.com/test.m3u8?id=11958
@@ -255,7 +255,7 @@ https://allinonereborn.com/test.m3u8?id=11958
 
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Bangla", COLORS BANGLA
-http://103.151.60.204/Colors-bangla/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 
@@ -266,7 +266,7 @@ http://xtv.ooo:8080/live/kamran800/800kamran/245897.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
-http://103.151.60.204/Jolsha-Movies/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies01
 
@@ -383,7 +383,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 http://170.254.18.107/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Hindi🇮🇳", Colors-HD Hd
-http://103.151.60.204/Colors-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png" group-title="Indian Hindi🇮🇳", Zee-tv-hd
 
