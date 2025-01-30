@@ -184,7 +184,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
-
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv 02
 
@@ -232,13 +232,13 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
-
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH01
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd
-
+http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd02
 https://bd.its-nayeemparvez.xyz/Star-23Jalsha87/index.m3u8
