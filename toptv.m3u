@@ -45,12 +45,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 
 #Bd News 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tvuu
-https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv
-https://allinonereborn.com/test.m3u8?id=11868
+https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv 2
 https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -69,7 +65,7 @@ https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|r
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD News🇧🇩", DBC News
-
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD News🇧🇩", Channel 24
 https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
