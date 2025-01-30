@@ -15,7 +15,10 @@ https://ythls-v3.onrender.com/channel/UCr79xFG2G0Lq0HKQQ8-hKrQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2M1gVm/channels4-profile-19.jpg" group-title="Islamic Channel", Twohid Barta
-https://ythls-v3.onrender.com/channel/UCDik9UsvvanFZkNd-x1L48Q.m3u8
+https://ythls-v3.onrender.com/channel/UCBw3FZ4zst3ERA24rD6i3VA.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6mmKSNM/images-16.jpg" group-title="Islamic Channel", Din Tv
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
@@ -30,9 +33,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Madina Tv
 https://allinonereborn.com/test.m3u8?id=20555
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Madina Tv
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sjZBPPs/images-17.jpg" group-title="Islamic Channel", Islamic Stdio
+https://ythls-v3.onrender.com/channel/UCDik9UsvvanFZkNd-x1L48Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vdQ13Zp/unnamed.png" group-title="Islamic Channel", Salaam Tv
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
