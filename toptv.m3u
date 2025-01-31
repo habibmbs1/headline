@@ -9,7 +9,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xhq0Q74/images-14.jpg" group-title="Islamic Channel", Madani Channel
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6mmKSNM/images-16.jpg" group-title="Islamic Channel", Islamic Waz
-https://ythls-v3.onrender.com/channel/UCr79xFG2G0Lq0HKQQ8-hKrQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/B6BKwYP/images-15.jpg" group-title="Islamic Channel", Islam Bangla
 
@@ -156,11 +156,14 @@ https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="BD Tv Channel", ANANDA TV
 https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W5QxZDK/images-3.jpg" group-title="BD Tv Channel", Bangla Tv bd
-http://xtv.ooo:8080/live/kamran800/800kamran/245910.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W5QxZDK/images-3.jpg" group-title="BD Tv Channel", Mohona Tv
+https://allinonereborn.com/test.m3u8?id=11886
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VLQR5d6/images-4.jpg" group-title="BD Tv Channel", Bangla Tv Eu
-https://cdn.ghuddi.live/tvapp/Bangla_TV_EU/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="BD Tv Channel", BIJOY TV HD
 https://allinonereborn.com/test.m3u8?id=11919
