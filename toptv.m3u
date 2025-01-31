@@ -996,7 +996,33 @@ http://66.45.232.131:9994/;stream.mp3
 
 
 
+#EXTM3U
+# This Playlist made by @Buddyxiptv
+# Using DRMLIVE Fancode Fetcher 
+# Join Us on Telegram "t.me/buddyxiptv"
+# Total Events: 10
+# Last updated: 12:08:12 AM 01-02-2025
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/115977_4730_GG_MIE_fc-web.jpg" group-title="Cricket", Gulf Giants vs MI Emirates (DP World International League T20, 2025)
+https://buddyxiptv.com/fancode/global/primary/115977_english_hls_9325ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117484_4787_WUT_PRC_Fc-Web.jpg" group-title="Cricket", Paarl CC vs Worcester United (Boland T20 Super League Finals, 2025)
+https://buddyxiptv.com/fancode/global/primary/117484_english_hls_5961ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117749_4799_GUY_BAR_fc-Web_1738071641349.jpg" group-title="Cricket", Barbados Pride vs Guyana Harpy Eagles (West Indies Championship, 2025)
+https://buddyxiptv.com/fancode/global/primary/117749_english_hls_6240ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BOX-Office-Hundred-Ball-TV-old-Match-card-.png" group-title="Cricket", Albanite vs Cathex (Box Office ASL T20)
+https://buddyxiptv.com/fancode/global/primary/117828_english_hls_3451ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/117750_4799_TNT_CCC_fc-Web_1738071641353.jpg" group-title="Cricket", Trinidad & Tobago Red Force vs Combined Campuses and Colleges (West Indies Championship, 2025)
+https://buddyxiptv.com/fancode/global/primary/117750_english_hls_5985ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg" group-title="Golf", Feed B - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)
+https://buddyxiptv.com/fancode/global/primary/117707_english_hls_5585ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v2.jpg" group-title="Golf", Feed E - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)
+https://buddyxiptv.com/fancode/global/primary/117708_english_hls_6902ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/116270_CASACARDS_APP.png" group-title="Basketball", Fenerbahce Beko Istanbul vs Virtus Bologna (EuroLeague 2024-25)
+https://buddyxiptv.com/fancode/global/primary/116270_english_hls_7233ta-no/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v3.jpg" group-title="Golf", Feed D - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)
+https://buddyxiptv.com/fancode/global/primary/117710_english_hls_520ta-di/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AT&T-Pebble-Beach-Pro-Am_old_v1.jpg" group-title="Golf", Feed C - Day 2 vs Pebble Beach, CA (Pebble Beach Pro-AM)
+https://buddyxiptv.com/fancode/global/primary/117731_english_hls_6943ta-no/index.m3u8
 
 
 
