@@ -200,7 +200,8 @@ http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sportshd
-http://103.96.235.18:8080/sports1/index.m3u8
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
 
