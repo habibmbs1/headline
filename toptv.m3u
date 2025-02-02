@@ -189,12 +189,12 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv 02
-
+http://stvlive.net:8080/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG" group-title="BD Tv Channel", Nagorik Tv 
-
+http://stvlive.net:8080/nagorik/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sports
 
