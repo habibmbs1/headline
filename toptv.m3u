@@ -852,7 +852,7 @@ https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", BPLSpecial
-
+http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play01
 http://103.96.235.18:8080/bd-tsports/index.m3u8
