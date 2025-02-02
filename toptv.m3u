@@ -718,7 +718,7 @@ Tsport Tv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-https://live.himel-op.top/novasports/index.m3u8?id=TSports
+http://stvlive.net:8080/tsports2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://allinonereborn.com/test.m3u8?id=18359
