@@ -756,18 +756,29 @@ https://live.himel-op.top/novasports/index.m3u8?id=PTVSports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 Ten 
 https://live.himel-op.top/novasports/index.m3u8?id=SonySportsTen01
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports Ten 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 Ten01
+http://stvlive.net:8080/sonyten1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 Ten 
 https://live.himel-op.top/novasports/index.m3u8?id=SonySportsTen02
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports Ten 3
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 Ten 01
+http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 Ten 
 https://live.himel-op.top/novasports/index.m3u8?id=SonySportsTen03
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports Ten 5
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 Ten 01
+http://stvlive.net:8080/sonyten3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 Ten 
 https://live.himel-op.top/novasports/index.m3u8?id=SonySportsTen05
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5Ten 01
+http://stvlive.net:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports Hindi
 https://crichd.onlinetvbd.com/m3u8.php/starhindi.m3u8
