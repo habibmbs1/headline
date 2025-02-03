@@ -48,7 +48,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #Bd News 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv
-http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv 2
 https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
@@ -60,17 +60,17 @@ https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News🇧🇩", Independent Tv
-http://stvlive.net:8080/independent/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News🇧🇩", Independent Tv 2
 https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD News🇧🇩", DBC News
-http://stvlive.net:8080/dbc/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD News🇧🇩", Channel 24
-http://stvlive.net:8080/channel24/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/cXBvkL4/images-20.jpg" group-title="BD News🇧🇩", Ekhon Tv
 
@@ -84,7 +84,7 @@ https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="BD News🇧🇩", DESH TV
-http://stvlive.net:8080/deshtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/tHxZwNx/channels4-profile-14.jpg" group-title="BD News🇧🇩", Bangla Gago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
