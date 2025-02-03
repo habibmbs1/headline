@@ -16,7 +16,9 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k2M1gVm/channels4-profile-19.jpg" group-title="Islamic Channel", Twohid Barta
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6mmKSNM/images-16.jpg" group-title="Islamic Channel", Din Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6mmKSNM/images-16.jpg" group-title="Islamic Channel", Islmic waz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZ1MHhBQ/images-5.jpg" group-title="Islamic Channel", Din Tv
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dmP8hpK/images-2.png" group-title="Islamic Channel", Makkah Tv
@@ -159,7 +161,7 @@ https://static.jagobd.com.bd/live-orgin/anandatv.stream/playlist.m3u8|referer=ht
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W5QxZDK/images-3.jpg" group-title="BD Tv Channel", Bangla Tv bd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W5QxZDK/images-3.jpg" group-title="BD Tv Channel", Mohona Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4nf004K3/images-6.jpg" group-title="BD Tv Channel", Mohona Tv
 https://allinonereborn.com/test.m3u8?id=11886
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VLQR5d6/images-4.jpg" group-title="BD Tv Channel", Bangla Tv Eu
@@ -257,6 +259,8 @@ https://allinonereborn.com/test.m3u8?id=11958
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 02
 https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxfSSpHx/unnamed.jpg" group-title="Indian Bangla", Sun Bangla
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Bangla", COLORS BANGLA
 http://stream247.live:8080/colorsbangla/index.m3u8
