@@ -512,7 +512,7 @@ https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
 https://news.otapp.store/lim/live.php?id=a6497ebbf14f&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
-https://news.otapp.store/lim/live.php?id=b1ba8efdd99d&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=toffee_drama
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA01
 https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
 
@@ -521,7 +521,7 @@ http://sadman.cloudns.ph/smax.php?id=toffee_movie
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES01
 https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_428673001738570163.png" group-title="Toffee", TOFFEE Live
 http://sadman.cloudns.ph/smax.php?id=match-1
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="Toffee", TOFFEE Live
