@@ -425,91 +425,105 @@ http://170.254.18.107/SONY/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
-https://news.otapp.store/lim/live.php?id=b6192dbff21b&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max01
 https://fredflix.fun/newtoffee/live.php?id=sony_max/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee", Set max hd
-https://news.otapp.store/lim/live.php?id=6a65854166f1&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Toffee", Set max hd01
 https://fredflix.fun/newtoffee/live.php?id=sony_max_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies
-https://news.otapp.store/lim/live.php?id=cd113761e022&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Toffee", B4u movies01
 https://fredflix.fun/newtoffee/live.php?id=b4u_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd
-https://news.otapp.store/lim/live.php?id=ea02096b0fbc&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd01
 https://fredflix.fun/newtoffee/live.php?id=sonypix_hd/playlist.m3u8
 
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla
 https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
-https://news.otapp.store/lim/live.php?id=7e00fee81848&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=match-1
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath01
 https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama
+http://sadman.cloudns.ph/smax.php?id=zee_bangla_cinema
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama01
 https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
-https://news.otapp.store/lim/live.php?id=2bec2112b890&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sony_entertainment
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment01
 https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD
-https://news.otapp.store/lim/live.php?id=243771d9592c&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sonyentertainmnt_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Toffee", Sony Entertainment HD01
 https://fredflix.fun/toffe/live.php?id=sonyentertainmnt_hd/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max2
-https://news.otapp.store/lim/live.php?id=420510be5c17&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sonymax_2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max201
+https://fredflix.fun/newtoffee/live.php?id=sonymax_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
-https://news.otapp.store/lim/live.php?id=a40abb7586bc&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=b4u_music
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic01
 https://fredflix.fun/newtoffee/live.php?id=b4u_music/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony yay
-https://news.otapp.store/lim/live.php?id=57bd9c2493c1&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sonyyay
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony Yay01
 https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
-https://news.otapp.store/lim/live.php?id=b7167fe646a4&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sonysab_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd01
+https://fredflix.fun/newtoffee/live.php?id=sonysab_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten1 hd
-https://news.otapp.store/lim/live.php?id=43dcec1011e7&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sony_sports_1_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony 1 hd01
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony Ten2 hd
-https://news.otapp.store/lim/live.php?id=abc6677968ef&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sony_sports_2_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Toffee", Sony 2 hd01
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_2_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Toffee", Sony Ten3 hd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony six5 hd
-https://news.otapp.store/lim/live.php?id=fd6de8bd1666&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sony_sports_5_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Toffee", Sony 5 hd01
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Toffee", Ten Cricket
+http://sadman.cloudns.ph/smax.php?id=ten_cricket
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Toffee", Ten Cricket
 https://fredflix.fun/newtoffee/live.php?id=ten_cricket/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee", Euro Sports hd
+http://sadman.cloudns.ph/smax.php?id=euro_sports_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Toffee", Euro Sports hd01
 https://fredflix.fun/newtoffee/live.php?id=euro_sports_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites
+http://sadman.cloudns.ph/smax.php?id=sports_highlights
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites01
 https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Toffee", Sony bbc Earth hd
-https://news.otapp.store/lim/live.php?id=a6497ebbf14f&e=.m3u8
+http://sadman.cloudns.ph/smax.php?id=sonybbc_earth_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Toffee", Sony bbc Earth hd
+https://fredflix.fun/newtoffee/live.php?id=sonybbc_earth_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
 http://sadman.cloudns.ph/smax.php?id=toffee_drama
