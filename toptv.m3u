@@ -474,6 +474,11 @@ http://sadman.cloudns.ph/smax.php?id=sonymax_2
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Toffee", Sony max201
 https://fredflix.fun/newtoffee/live.php?id=sonymax_2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
+http://sadman.cloudns.ph/smax.php?id=sonysab_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd01
+https://fredflix.fun/newtoffee/live.php?id=sonysab_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic
 http://sadman.cloudns.ph/smax.php?id=b4u_music
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Toffee", B4umusic01
@@ -484,10 +489,10 @@ http://sadman.cloudns.ph/smax.php?id=sonyyay
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Toffee", Sony Yay01
 https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd
-http://sadman.cloudns.ph/smax.php?id=sonysab_hd
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Toffee", Sony sab hd01
-https://fredflix.fun/newtoffee/live.php?id=sonysab_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Toffee", Cartoon_network_hd
+http://sadman.cloudns.ph/smax.php?id=cartoon_network_hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Toffee", Cartoon_network_hd01
+https://fredflix.fun/newtoffee/live.php?id=cartoon_network_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten1 hd
 http://sadman.cloudns.ph/smax.php?id=sony_sports_1_hd
