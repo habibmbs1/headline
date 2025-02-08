@@ -213,7 +213,7 @@ http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sportshd01
-
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="BD Tv Channel", No Channel
@@ -772,7 +772,7 @@ Tsport Tv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
-
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://allinonereborn.com/test.m3u8?id=18359
