@@ -804,7 +804,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports
-
+https://allinonereborn.com/test.m3u8/?id=23935
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", Geo Sports
 
@@ -838,10 +838,10 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports 01
-http://lkn1.chowdhury-shaheb.com/starsport1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports 02
-http://lkn1.chowdhury-shaheb.com/starsport2/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 1
 
@@ -856,7 +856,7 @@ https://crichd.onlinetvbd.com/m3u8.php/skysme.m3u8
 https://crichd.onlinetvbd.com/m3u8.php/willowextra.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel⚽⚾🏏", Sky Football 
-http://lkn1.chowdhury-shaheb.com/superfootball/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel⚽⚾🏏", Bian Sports
@@ -905,13 +905,13 @@ https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play01
-https://fredflix.fun/newtoffee/evplay.php?id=ev1
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play02
-http://103.175.242.10:8080/starsports1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", All Play02
-http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 3
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
