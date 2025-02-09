@@ -848,6 +848,11 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 2
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports Channel⚽⚾🏏", Euro Sport 1
+https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports Channel⚽⚾🏏", Euro Sport
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel⚽⚾🏏", Sky Cricket 
 https://crichd.onlinetvbd.com/m3u8.php/skysme.m3u8
