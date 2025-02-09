@@ -421,8 +421,30 @@ http://170.254.18.107/SONY/index.m3u8
 #Toffee
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla
+http://sadman.cloudns.ph/smax.php?id=zee_bangla
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla01
+https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
+http://sadman.cloudns.ph/smax.php?id=sonyaath
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath01
+https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama
+http://sadman.cloudns.ph/smax.php?id=zee_bangla_cinema
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama01
+https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
+http://sadman.cloudns.ph/smax.php?id=toffee_drama
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA01
+https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES
+http://sadman.cloudns.ph/smax.php?id=toffee_movie
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES01
+https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
 http://sadman.cloudns.ph/smax.php?id=sony_max
@@ -443,21 +465,6 @@ https://fredflix.fun/newtoffee/live.php?id=b4u_movies/playlist.m3u8
 http://sadman.cloudns.ph/smax.php?id=sonypix_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="Toffee", Sony pix hd01
 https://fredflix.fun/newtoffee/live.php?id=sonypix_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla
-http://sadman.cloudns.ph/smax.php?id=zee_bangla
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla01
-https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
-http://sadman.cloudns.ph/smax.php?id=sonyaath
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath01
-https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama
-http://sadman.cloudns.ph/smax.php?id=zee_bangla_cinema
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama01
-https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Toffee", Sony Entertainment
 http://sadman.cloudns.ph/smax.php?id=sony_entertainment
@@ -509,11 +516,6 @@ http://sadman.cloudns.ph/smax.php?id=tlc_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Toffee", Tlc_hd01
 https://fredflix.fun/newtoffee/live.php?id=tlc_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA
-http://sadman.cloudns.ph/smax.php?id=toffee_drama
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="Toffee", TOFFEE DRAMA01
-https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony Ten1 hd
 http://sadman.cloudns.ph/smax.php?id=sony_sports_1_hd
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee", Sony 1 hd01
@@ -545,11 +547,6 @@ https://fredflix.fun/newtoffee/live.php?id=euro_sports_hd/playlist.m3u8
 http://sadman.cloudns.ph/smax.php?id=sports_highlights
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Toffee", Sports Highlites01
 https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES
-http://sadman.cloudns.ph/smax.php?id=toffee_movie
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES01
-https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_428673001738570163.png" group-title="Toffee", TOFFEE Live
 http://sadman.cloudns.ph/smax.php?id=match-1
