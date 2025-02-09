@@ -426,11 +426,6 @@ http://sadman.cloudns.ph/smax.php?id=zee_bangla
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee_bangla01
 https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
-http://sadman.cloudns.ph/smax.php?id=sonyaath
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath01
-https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama
 http://sadman.cloudns.ph/smax.php?id=zee_bangla_cinema
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Toffee", Zee bangla Cenama01
@@ -445,6 +440,11 @@ https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
 http://sadman.cloudns.ph/smax.php?id=toffee_movie
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="Toffee", TOFFEE MOVIES01
 https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath
+http://sadman.cloudns.ph/smax.php?id=sonyaath
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Toffee", Sony aath01
+https://fredflix.fun/newtoffee/live.php?id=sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Toffee", Sony max
 http://sadman.cloudns.ph/smax.php?id=sony_max
