@@ -210,7 +210,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sportshd
-https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
+https://cdn.hoichoi24.com/TSportsHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="BD Tv Channel", T Sportshd01
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
@@ -359,7 +359,7 @@ https://allinonereborn.com/test.m3u8?id=150
 
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi🇮🇳", &Pictures HD
-
+https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi🇮🇳", Xplor Hd
 
@@ -574,7 +574,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Bangla
-
+https://cdn.hoichoi24.com/NickTVHDPlus/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Jugnu Kids 
 
@@ -617,7 +617,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel🦕🦜", Discovery
-
+https://cdn.hoichoi24.com/DiscoveryHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Documentary Channel🦕🦜", Discovery
 https://allinonereborn.com/test.m3u8?id=479
@@ -711,10 +711,10 @@ https://mbc1-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive
-
+https://cdn.hoichoi24.com/AndPriveHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
-http://opplex.tv:8080/live/15155419/16175512/66236.ts
+https://cdn.hoichoi24.com/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -738,13 +738,15 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd
+https://cdn.hoichoi24.com/SonyPixHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd01
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6DWfy6/images-4.png" group-title="English Channel", HBO
 http://line.4k-beast.co:80/529C1C/7446D7/656836
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/M9bnWJX/images-30.jpg" group-title="English Channel", Star Movies hd
-
+https://cdn.hoichoi24.com/StarMoviesHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/V9jTSXK/241106151022.jpg" group-title="English Channel", Movies Now
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
@@ -853,6 +855,7 @@ https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/c8RGLDm/images-28.jpg" group-title="Sports Channel⚽⚾🏏", Sky Cricket 
+https://cdn.hoichoi24.com/SkySportsCricketHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/BHTK07pQ/timthumb.png" group-title="Sports Channel⚽⚾🏏", Willow Cricbazz hd
 http://extraott.com/live/3969424152/3723991250/175793.m3u8
