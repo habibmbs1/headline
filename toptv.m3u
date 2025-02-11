@@ -288,7 +288,7 @@ https://cdn.hoichoi24.com/INBD-COLORS-BANGLA-hoichoi24.com/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
-
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3774158|Referer=https://moonkerala.xyz/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
 https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
@@ -409,7 +409,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 http://170.254.18.107/SONY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Hindi🇮🇳", Colors-HD Hd
-
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png" group-title="Indian Hindi🇮🇳", Zee-tv-hd
 
@@ -578,8 +578,15 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Bangla
 https://cdn.hoichoi24.com/NickTVHDPlus/video.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="Cartoon Channel", Nick Hindi
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Jugnu Kids 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X4HKksX/unnamed-3.jpg" group-title="Cartoon Channel", Sonic Tv
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3774149|Referer=https://moonkerala.xyz/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="Cartoon Channel", Discovery Kids
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Kids.m3u8
