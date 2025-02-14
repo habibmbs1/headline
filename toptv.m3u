@@ -259,6 +259,9 @@ https://cdn.hoichoi24.com/SonyATV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH01
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
@@ -641,6 +644,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon Channel", POGO
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Cartoon Channel", Sony Yay Tofe
+https://fredflix.fun/newtoffee/live.php?id=sonyyay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="Cartoon Channel", Kids Flix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
@@ -729,7 +735,9 @@ https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
-.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="MUSIC", B4umusic Tofe
+https://fredflix.fun/newtoffee/live.php?id=b4u_music/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
@@ -875,31 +883,27 @@ https://allinonereborn.com/test.m3u8/?id=23935
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/VjTDffC/images-13.png" group-title="Sports Channel⚽⚾🏏", Ten Sports
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VjTDffC/images-13.png" group-title="Sports Channel⚽⚾🏏", Ten Sports Tofe
+https://fredflix.fun/newtoffee/live.php?id=ten_cricket/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 Ten 
 https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 Ten01
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 1 Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_sports_1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 Ten 
 https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 Ten 01
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 2 Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_sports_2_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 Ten 
 https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 3 Ten 01
-
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 Ten 
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5Ten 01
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports Channel⚽⚾🏏", Sony Sports 5 Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_sports_5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports Hindi 
 http://176.97.123.29/live.ts?channelId=295&uid=8&deviceMac=00:1A:79:6A:43:86
@@ -933,6 +937,8 @@ https://iptv.umadiyajanani.com/crichd.m3u8/?willowusa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdXWNRWH/unnamed-1.jpg" group-title="Sports Channel⚽⚾🏏", Fox Cricket
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Sports Channel⚽⚾🏏", Sports Highlites
+https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel⚽⚾🏏", Sky Football 
 
