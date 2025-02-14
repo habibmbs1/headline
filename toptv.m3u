@@ -207,6 +207,11 @@ https://cdn.hoichoi24.com/hoichoi24.com-Gazi-TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG" group-title="BD Tv Channel", Nagorik Tv 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="BD Tv Channel", TOFFEE DRAMA
+https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="BD Tv Channel", TOFFEE MOVIES
+https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hpmmNd7/images-7.jpg" group-title="BD Tv Channel", Matribhumi Tv
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
@@ -362,7 +367,8 @@ https://allinonereborn.com/test.m3u8?id=152
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
 https://allinonereborn.com/test.m3u8?id=150
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Tofe
+https://fredflix.fun/newtoffee/live.php?id=zee_cinema_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi🇮🇳", &Pictures HD
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
@@ -378,12 +384,18 @@ https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX
 http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_max/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX Hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Hindi🇮🇳", SET MAX Hd
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Hindi🇮🇳", SET MAX Hd Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_max_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie
 https://allinonereborn.com/test.m3u8?id=141
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie Tofe
+https://fredflix.fun/newtoffee/live.php?id=b4u_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/18HrfPy/download.jpg" group-title="Indian Hindi🇮🇳", GoldMind 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
@@ -411,12 +423,16 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png" group-title="Indian Hindi🇮🇳", Bollywood Prime
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LY95nv9/images-1.jpg" group-title="Indian Hindi🇮🇳", Pitaara Movies
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Hd
 http://170.254.18.107/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Tofe
+https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Hindi🇮🇳", Colors-HD Hd
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
@@ -431,9 +447,6 @@ https://moonkerala.xyz/jcinema/stream.m3u8?id=3774151|Referer=https://moonkerala
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/29446_Zee Tv1664974411.png" group-title="Indian Hindi🇮🇳", Zee-tv-hd
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg" group-title="Indian Hindi🇮🇳", Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DQfDbRv/images-16.png" group-title="Indian Hindi🇮🇳", No channel 
@@ -780,6 +793,8 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 https://cdn.hoichoi24.com/SonyPixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd01
 https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ft5bJ7z/images-21.jpg" group-title="English Channel", Sony Pixhd Tofe
+https://fredflix.fun/newtoffee/live.php?id=sonypix_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6DWfy6/images-4.png" group-title="English Channel", HBO
 http://line.4k-beast.co:80/529C1C/7446D7/656836
