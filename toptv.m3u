@@ -273,6 +273,9 @@ https://allinonereborn.com/test.m3u8?id=11958
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 02
 https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla Tofe
+https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxfSSpHx/unnamed.jpg" group-title="Indian Bangla", Sun Bangla
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Bangla", COLORS BANGLA
@@ -284,8 +287,8 @@ https://cdn.hoichoi24.com/INBD-COLORS-BANGLA-hoichoi24.com/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema01
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", ZeeBangl Cinema Tofe
+https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xG3tpR/image.png" group-title="Indian Bangla", Colors Bangla Cinema
 
@@ -359,6 +362,7 @@ https://allinonereborn.com/test.m3u8?id=152
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
 https://allinonereborn.com/test.m3u8?id=150
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi🇮🇳", &Pictures HD
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
