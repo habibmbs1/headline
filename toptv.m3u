@@ -321,8 +321,8 @@ https://fredflix.fun/bdix2/live.php?cid=INBD-JALSHA-MOVIES&e=.m3u8
 https://allinonereborn.com/test.m3u8?id=152
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Hd03
 https://allinonereborn.com/test.m3u8?id=150
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema Tofe
-https://fredflix.fun/newtoffee/live.php?id=zee_cinema_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema To
+http://103.115.126.26:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Indian Hindi🇮🇳", &Pictures HD
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
@@ -735,9 +735,10 @@ https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=starhindi
 https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=star1in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 1
-
+http://103.115.126.26:8000/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 2
+http://103.115.126.26:8000/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports Channel⚽⚾🏏", Euro Sports
 https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=eurosp1
@@ -762,7 +763,7 @@ https://iptv.umadiyajanani.com/crichd.m3u8/?willowusa
 https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox501
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Sports Channel⚽⚾🏏", Sports Highlites
-https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel⚽⚾🏏", Sky Football 
 https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysfott
