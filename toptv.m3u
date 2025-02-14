@@ -727,10 +727,10 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 https://fredflix.fun/newtoffee/live.php?id=sony_sports_5_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports Hindi 
-http://176.97.123.29/live.ts?channelId=295&uid=8&deviceMac=00:1A:79:6A:43:86
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=starhindi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports Channel⚽⚾🏏", Star Sports English 
-https://cdn.hoichoi24.com/StarSports1HD/video.m3u8
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=star1in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 1
 
@@ -738,7 +738,7 @@ https://cdn.hoichoi24.com/StarSports1HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3FSyHFk/images-11.png" group-title="Sports Channel⚽⚾🏏", Star Sport Selet 2
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports Channel⚽⚾🏏", Euro Sports
-https://cdn.hoichoi24.com/EurosportsHD/video.m3u8
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=eurosp1
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports Channel⚽⚾🏏", Euro Sports Tofe
 
@@ -751,23 +751,25 @@ https://cdn.hoichoi24.com/SkySportsCricketHD/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/BHTK07pQ/timthumb.png" group-title="Sports Channel⚽⚾🏏", Willow Cricbazz hd
-http://176.97.123.29/live.ts?channelId=302&uid=4507&deviceMac=00:1A:79:6A:43:86
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=willowextra
 
 #EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/BHTK07pQ/timthumb.png" group-title="Sports Channel⚽⚾🏏", Willow Cricbazz hd01
 https://iptv.umadiyajanani.com/crichd.m3u8/?willowusa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sdXWNRWH/unnamed-1.jpg" group-title="Sports Channel⚽⚾🏏", Fox Cricket
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=fox501
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="Sports Channel⚽⚾🏏", Sports Highlites
 https://fredflix.fun/newtoffee/live.php?id=sports_highlights/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/r5Xdx3t/channels4-profile-24.jpg" group-title="Sports Channel⚽⚾🏏", Sky Football 
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=skysfott
 
 #EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/BHTK07pQ/timthumb.png" group-title="Sports Channel⚽⚾🏏", TnT Sports1
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
 #EXTINF:-1 tvg-logo="https://imgbb.com/"><img src="https://i.ibb.co.com/BHTK07pQ/timthumb.png" group-title="Sports Channel⚽⚾🏏", TnT Sports2
-https://cdn.hoichoi24.com/tntsports2hd/video.m3u8
+https://hellopeopletv.gotohosty.com/CricHD-playlist.m3u?id=bbtsp2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png" group-title="Sports Channel⚽⚾🏏", Bian Sports
 https://wo.cma.footballii.ir:443/hls2/b1_high.m3u8
