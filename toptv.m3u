@@ -256,7 +256,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH
 https://cdn.hoichoi24.com/SonyATV/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH01
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Indian Bangla", SONY AATH Tofe
@@ -265,22 +264,17 @@ https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd01
 http://humsab.xyz/IN_JALSHAS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha 02
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla
 http://humsab.xyz/IN_ZEBS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla01
 https://allinonereborn.com/test.m3u8?id=11958
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla 02
 https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla Tofe
 https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
@@ -288,12 +282,10 @@ https://fredflix.fun/newtoffee/live.php?id=zee_bangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Bangla", COLORS BANGLA
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3774158|Referer=https://moonkerala.xyz/
-
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Bangla", COLORS BANGLA01
 https://cdn.hoichoi24.com/INBD-COLORS-BANGLA-hoichoi24.com/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", Zee Bangla Cinema
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1764RCs/image.jpg" group-title="Indian Bangla", ZeeBangl Cinema Tofe
 https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
@@ -303,10 +295,8 @@ https://fredflix.fun/newtoffee/live.php?id=zee_bangla_cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies
 https://cdn.hoichoi24.com/INBD-JALSHA-MOVIES-hoichoi24.com/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies01
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="Indian Bangla", Jalsha Movies 02
 https://fredflix.fun/bdix2/live.php?cid=INBD-JALSHA-MOVIES&e=.m3u8
 
@@ -436,6 +426,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 http://170.254.18.107/SONY/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Tofe
 https://fredflix.fun/newtoffee/live.php?id=sony_entertainment/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Hindi🇮🇳", Colors-HD Hd
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
