@@ -691,7 +691,7 @@ https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel⚽⚾🏏", A Sports
-https://api.shihabtv.xyz/cast/crichd/play.php?key=AKI&c=ptvpk&e=.m3u8|referer=https://api.shihabtv.xyz/cast/crichd/pl.php?c=ptvpk
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel⚽⚾🏏", A Sports01
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
@@ -700,6 +700,10 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports
 https://allinonereborn.com/test.m3u8/?id=23935
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports01
+https://api.shihabtv.xyz/cast/crichd/play.php?key=AKI&c=ptvpk&e=.m3u8|referer=https://api.shihabtv.xyz/cast/crichd/pl.php?c=ptvpk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", Geo Sports
 
