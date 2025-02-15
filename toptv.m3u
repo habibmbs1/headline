@@ -688,7 +688,11 @@ https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel⚽⚾🏏", A Sports
+https://api.shihabtv.xyz/cast/crichd/play.php?key=AKI&c=ptvpk&e=.m3u8|referer=https://api.shihabtv.xyz/cast/crichd/pl.php?c=ptvpk
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0MkQ5s8/A-Sports-Logo.png" group-title="Sports Channel⚽⚾🏏", A Sports01
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QkXdH4X/a-Cm-Kx-Kl-400x400.jpg" group-title="Sports Channel⚽⚾🏏", 18 Sports 
