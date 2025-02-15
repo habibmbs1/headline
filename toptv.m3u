@@ -207,13 +207,13 @@ https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=58015
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g3Q5qgn/images-5.png" group-title="BD Tv Channel", Nobbanno Tv 
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/33421_NAGORIK.JPG" group-title="BD Tv Channel", Nagorik Tv 
-https://s1.thenayeemparvez.xyz/mpur-xx/master.m3u8?id=49739
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="BD Tv Channel", TOFFEE DRAMA
-https://fredflix.fun/newtoffee/live.php?id=toffee_drama/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="BD Tv Channel", TOFFEE MOVIES
-https://fredflix.fun/newtoffee/live.php?id=toffee_movie/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hpmmNd7/images-7.jpg" group-title="BD Tv Channel", Matribhumi Tv
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
@@ -270,7 +270,6 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamax
 https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/57280_JALSHA_M.JPG" group-title="Indian Bangla", Star Jalsha Hd01
 http://humsab.xyz/IN_JALSHAS/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian Bangla", Star Jalsha 02
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="Indian Bangla", Zee Bangla zee
@@ -338,7 +337,6 @@ https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX Tofe
 
-
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Hindi🇮🇳", SET MAX Hd
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Hindi🇮🇳", SET MAX Hd Liv
@@ -359,12 +357,11 @@ https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 https://allinonereborn.com/test.m3u8?id=141
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie Tofe
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/18HrfPy/download.jpg" group-title="Indian Hindi🇮🇳", GoldMind 
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qNYXSBH/images-12.jpg" group-title="Indian Hindi🇮🇳", The Movies Clab
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="Indian Hindi🇮🇳", Shema Bolliwood
 
