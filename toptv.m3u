@@ -334,12 +334,6 @@ https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi🇮🇳", Xplor Hd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Action
-https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Amol
-https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX Tofe
@@ -355,6 +349,11 @@ http://103.115.126.26:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKHzkGvQ/unnamed-3.jpg" group-title="Indian Hindi🇮🇳", Zee Bollywood
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Action
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZJvjZfy/unnamed-1.jpg" group-title="Indian Hindi🇮🇳", Zee Amol
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7npPscs/unnamed-2.jpg" group-title="Indian Hindi🇮🇳", B4U Movie
 https://allinonereborn.com/test.m3u8?id=141
