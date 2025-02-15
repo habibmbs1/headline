@@ -664,18 +664,18 @@ Tsport Tv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 01
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 02
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 03
+https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 000
 https://allinonereborn.com/test.m3u8?id=18359
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 04
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 000
 https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 04
-https://cdn.hoichoi24.com/TSportsHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/T1DbHKn/tsooop.png" group-title="T-Sport 🔴", T Sports 05
 
