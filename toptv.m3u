@@ -196,7 +196,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/DRmM8Hd/channels4-profile-1.jpg" group-title="BD Tv Channel", Duronto Tv
-
+https://cdn.hoichoi24.com/Duronto/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/PhKYJB7/unnamed-1.png" group-title="BD Tv Channel", GTv
 
@@ -837,8 +837,8 @@ http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 4
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live laliga
+https://cdn.hoichoi24.com/SuperLaLigaHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sQfnyvQ/pngtree-tv-shape-red-live-icon-png-image-2473459.jpg" group-title="LIVE EVENT⏩", Live 5
 https://c3s5.vfruitfairy.com/soc30/tracks-v1a1/mono.m3u8
