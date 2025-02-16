@@ -700,10 +700,8 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports
 https://allinonereborn.com/test.m3u8/?id=23935
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", PTV Sports01
-https://api.shihabtv.xyz/cast/crichd/play.php?key=AKI&c=ptvpk&e=.m3u8|referer=https://api.shihabtv.xyz/cast/crichd/pl.php?c=ptvpk
+https://yt-king-hello-people-tv.tiiny.io/stream.php?id=ptvpk&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/BLcH1f7/images-14.png" group-title="Sports Channel⚽⚾🏏", Geo Sports
 
