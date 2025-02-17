@@ -330,9 +330,8 @@ https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi🇮🇳", Xplor Hd
-https://live.drmlive-02.workers.dev/zee/Xplor.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="Indian Hindi🇮🇳", SET MAX
 http://170.254.18.107/SONYMAX/index.m3u8
@@ -596,12 +595,12 @@ https://s.tvua.biz/MbDAXVJ_6f3_QRtaTQbu-A/586/1739273618/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive
 https://cdn.hoichoi24.com/AndPriveHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gtSS5fR/images-7.png" group-title="English Channel", &prive01
-https://live.drmlive-02.workers.dev/zee/prive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD
 https://cdn.hoichoi24.com/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TW9f8bK/images-8.png" group-title="English Channel", &Flix HD01
-https://live.drmlive-02.workers.dev/zee/Flix.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JwgcRD02/images-6.png" group-title="English Channel", Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
