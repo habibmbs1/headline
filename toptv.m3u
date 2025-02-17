@@ -325,9 +325,9 @@ https://allinonereborn.com/test.m3u8?id=150
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Hindi🇮🇳", Zee Cinema To
 http://103.115.126.26:8000/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD01
-https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qFJ03tqY/8.jpg" group-title="Indian Hindi🇮🇳", &Pictures HD01
 https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LvCY2mf/images-11.jpg" group-title="Indian Hindi🇮🇳", Xplor Hd
@@ -371,13 +371,10 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zSVTLNt/images-3.png" group-title="Indian Hindi🇮🇳", Uthso Gold Hd
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" group-title="Indian Hindi🇮🇳", Colors Cineplex Hd
-https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" group-title="Indian Hindi🇮🇳", Colors Cineplex Bolliwood
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3845693|Referer=https://moonkerala.xyz/
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" group-title="Indian Hindi🇮🇳", Colors Cineplex Hd
+https://moonkerala.xyz/jcinema/stream.m3u8?id=3774155|Referer=https://moonkerala.xyz/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" group-title="Indian Hindi🇮🇳", Colors Cineplex Superhits
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3479683|Referer=https://moonkerala.xyz/
 
@@ -388,11 +385,17 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="Indian Hindi🇮🇳", SONY YAY liv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Hd
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment liv
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Tofe
+http://103.115.126.26:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Xq5NgM/20240804-145843.png" group-title="Indian Hindi🇮🇳", SONY KAL HD liv
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="Indian Hindi🇮🇳", SONY WAH ;iv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWLFPrd/20240803-110518.png" group-title="Indian Hindi🇮🇳", SONY WAH liv
 https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png" group-title="Indian Hindi🇮🇳", SONY PAL liv
@@ -400,13 +403,6 @@ https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralama
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HYhhk7T/20240803-110454.png" group-title="Indian Hindi🇮🇳", SONY SAB HD liv
 https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Hd
-http://170.254.18.107/SONY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rjsFNd/20240804-145610.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment liv
-https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Hindi🇮🇳", Sony Entertaiment Tofe
-http://103.115.126.26:8000/play/a03j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="Indian Hindi🇮🇳", Colors-HD Hd
 https://moonkerala.xyz/jcinema/stream.m3u8?id=3694429|Referer=https://moonkerala.xyz/
