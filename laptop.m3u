@@ -59,8 +59,9 @@ https://allinonereborn.com/test.m3u8?id=11874
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv
 https://allinonereborn.com/test.m3u8?id=11868
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv 2
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv01
+https://bdix.himel-op.top/pro.m3u8?id=jamuna|Referer=https://bdix.himel-op.top//&key=BDStreamHub
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD News🇧🇩", Jumuna Tv02
 https://cdn.hoichoi24.com/JamunaTV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="BD News🇧🇩", Independent Tv
@@ -119,8 +120,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #Bd Tv Channel 
 
-
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV National 
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/live-orgin/btvnational1.stream/chunks.m3u8|Referer=//&key=BDStreamHub
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="BD Tv Channel", BTV News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 
